@@ -278,4 +278,27 @@ footer {
 	height: 20px;
 	margin: 5px;
 }
+.box {
+	background-color: #eeeeee;
+	border-style: solid;
+	border-width: 7px 7px 7px 7px;
+	border-color: #c6c6c6;
+	margin-top: 7px;
+	text-align: center;
+}
+.fancybox {
+	width: 80%;
+	border-style: solid;
+	border width 3px 3px 3px 3px;
+	border-radius: 30px;
+	font-family: typostuck;
+	margin: 7px 7px 7px 7px;
+	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: left;
+  	align-items: center;
+	background: linear-gradient(#ffffff, #f6f6f6);
+	border-color: #510506;
+
+}
 @keyframes spin { 0% {  transform: rotateZ(0); } 100% {  transform: rotateZ(360deg); }}
