@@ -5,6 +5,7 @@
 
 body {
 	background-image: url("./assets/captchabackground.png");
+	background-color: #434343;
 	image-rendering: crisp-edges;
 	background-size: 25%;
 }
@@ -33,13 +34,26 @@ header {
 
 #banner {
 	position: relative;
+	background-image: url(./assets/bannerframe.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 110px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#frame {
+	max-width: 100%;
 }
 
 #ad {
-	position: absolute;
-	left: 111px;
-	top: 10px;
-	max-width: 100%;
+	width: 77%;
+}
+
+#ad img {
+	width: 100%;
 }
 
 /* NAV */
