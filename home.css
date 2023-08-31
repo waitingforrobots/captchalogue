@@ -287,21 +287,42 @@ footer {
 	border-color: #c6c6c6;
 	margin-top: 7px;
 	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+
 }
 .fancybox {
-	width: 80%;
+	width: 90%;
 	border-style: solid;
-	border width 3px 3px 3px 3px;
+	border-width: 4px;
 	border-radius: 30px;
-	font-family: typostuck;
 	margin: 7px 7px 7px 7px;
 	display: flex;
   	flex-wrap: wrap;
   	justify-content: left;
   	align-items: center;
-	background: linear-gradient(#ffffff, #f6f6f6);
-	border-color: #510506;
-
+	background: linear-gradient(#ffffff, #dddddb);
+	border-color: #d5d5d2;
+	padding: 7px 7px 7px 7px;
+	flex-direction: row;
 }
-
+.workicon {
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 30px;
+	border-color: #4be24f;
+	height: 200px;
+	width: 200px;
+}
+.fboxcontent {
+	flex-grow: 1;
+	height: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: start;
+	align-items: start;
+	flex-direction: column;
+}
 @keyframes spin { 0% {  transform: rotateZ(0); } 100% {  transform: rotateZ(360deg); }}
