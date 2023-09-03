@@ -1,0 +1,155 @@
+@font-face {
+  font-family: whatpump;
+  src: url(./assets/whatpumkinlowerc.ttf);
+}
+
+body {
+  background-color: #dddddd;
+  padding-top: 8px;
+
+  font-family: verdana, arial, helvetica, sans-serif;
+  color: #2c3e49;
+  font-size: 11px;
+}
+
+#main {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+  padding: 1px 0;
+  font-size: 10pt;
+}
+
+/* == */
+ 
+#topnav {
+  padding: 0px 5px;
+  height: 20px;
+  margin-bottom: 6px;
+  margin-top: 4px;
+  font-size: 11px;
+}
+
+/* == */
+
+#nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 158px;
+}
+
+/* == */
+
+#description {
+  background-color: #f0efef;
+  min-height: 150px;
+  text-indent: 30px;
+}
+
+#description h4 {
+  color: #893393;
+}
+
+#description p {
+  padding-left: 30px;
+  padding-right: 100px;
+}
+
+#description::before {
+  content: "";
+  display: block;
+  background-color: #9c9c9c;
+  height: 20px;
+  border-radius: 0px 0px 12px 12px / 0px 0px 15px 15px;
+}
+
+#description::after {
+  font-family: whatpump;
+  content: "check this stuff";
+  color: white;
+  line-height: 30px;
+  font-size: 26px;
+  text-indent: 15px;
+
+  display: block;
+  background-color: #aa11bb;
+  height: 20px;
+  margin-top: 40px;
+  border-radius: 10px 10px 0 0;
+}
+
+/* == */
+
+#products {
+  width: 740px;
+  margin: 30px auto 15px;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 60px 0;
+}
+
+#products .item {
+  width: 25%;
+  box-sizing: border-box;
+}
+
+#products .item a {
+  font-size: 12px;  
+  font-weight: bold;
+  text-decoration: none;
+  color: #00c0ff;
+}
+
+#products .item .name {
+  text-decoration: underline;
+  width: 130px;
+  margin: auto;
+
+  padding: 10px;
+}
+
+#products .item img {
+  display: block;
+  margin: 5px auto 10px;
+}
+
+.btn {
+  height: 30px;
+  display: block;
+  line-height: 30px;
+  width: 130px;
+  margin: auto;
+
+  color: #FFFFFF;
+  font-size: 11pt;
+  text-transform: uppercase;
+  text-align: center;
+
+  background-color: #aa11bb;
+  box-shadow: 6px 4px #840a91;
+}
+
+.btn:hover {
+  filter: saturate(1.25);
+}
+
+/* == */
+
+#footer {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #cccccc;
+  font-size: 10pt;
+}
+
+#footer::before {
+  content: "";
+  display: block;
+  background-color: #aa11bb;
+  height: 20px;
+  border-radius: 0px 0px 12px 12px / 0px 0px 15px 15px;
+}
