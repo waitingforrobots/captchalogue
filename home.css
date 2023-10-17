@@ -300,9 +300,38 @@ footer {
 }
 
 @keyframes spin { 0% {  transform: rotateZ(0); } 100% {  transform: rotateZ(360deg); }}
+.conbox {
+	width: 90%;
 
+	border: solid 4px white;
+	border-radius: 30px;
+
+	margin: 7px auto;
+	padding: 7px;
+	
+	display: flex;
+	justify-content: left;
+	background: linear-gradient(#1e5911, #0E4603);
+	background-repeat: no-repeat;
+	filter: drop-shadow(0px 0px 3px #00ed4f);
+}
+.conboxcontent {
+	flex-grow: 1;
+	text-align: center;
+	padding: 7px;
+	color: white;
+}
+.conbox h1 {
+	font-family: TYPOSTUCK;
+	margin: 0px;
+	font-size: 45px; 
+}
+.conbox p {
+	font-family: "Courier New", courier, monospace;
+	font-weight: bold;
+	margin: 0px;
+}
 /* BEYOND */
-
 .fancybox {
 	width: 90%;
 
