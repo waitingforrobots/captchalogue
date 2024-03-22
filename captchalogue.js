@@ -25,7 +25,7 @@ const newsButt = document.getElementById('newsbutton');
 let currPage = window.location.href;
 
 const redirect = (page) => {
-	window.location.href = currPage.replace("index.html", `${page}.html`)
+	window.location.href = currPage + `${page}.html`
 }
 
 readerButt.addEventListener('click', () => redirect('newreader'));
