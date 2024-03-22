@@ -3,7 +3,7 @@
 	<link rel="stylesheet" type="text/css" href="./home.css">   
 	<title>Captchalogue.com</title>
 	<link rel="icon" type="image/x-icon" href="./assets/favicon.ico">
-
+	<script type="text/javascript" src='./captchalogue.js' defer></script>
 </head>
 <body>
 	<div id="content">
@@ -25,10 +25,10 @@
 
 			<img src="./assets/captcha.png" class="divider">
 			<a href="http://www.homestuck.com" style="color: #29ff4a">Homestuck</a> |
-			<a href="/" style="color: #29ff4a">New Reader?</a>
+			<a href="/newreader" style="color: #29ff4a">New Reader?</a>
 
 			<img src="./assets/captcha.png" class="divider">
-			<a href="/" style="color: #39d5f6">Archive</a> |
+			<a href="/archive" style="color: #39d5f6">Archive</a> |
 			<a href="/merch/" style="color: #39d5f6">Merch</a> |
 			<a href="/" style="color: #39d5f6">Books</a>
 
@@ -49,18 +49,18 @@
 
 				<div class="sideContent">
 					<div id="buttonlist">
-						<div class="button mind"> <h1>New Reader?</h1> </div>
-						<div class="button time"> <h1>Archive</h1> </div>
-						<div class="button light"> <h1>Fanworks</h1> </div>
-						<div class="button breath"> <h1>Beyond</h1> </div>
-						<div class="button space"> <h1>News</h1> </div>
+						<div class="button mind" id="readbutton"> <h1>New Reader?</h1> </div>
+						<div class="button time" id="archbutton"> <h1>Archive</h1> </div>
+						<div class="button light" id="fanbutton"> <h1>Fanworks</h1> </div>
+						<div class="button breath" id="beyondbutton"> <h1>Beyond</h1> </div>
+						<div class="button space" id="newsbutton"> <h1>News</h1> </div>
 					</div>
 				</div>
 				
 				<div class="mainContent" id="about">
 					<h1 class="orangedrop head">ABOUT</h1>
 					<div id="mainp"> 
-						<p> Welcome to Captchalogue.com! This is a fansite dedicated to the webcomic <i>Homestuck</i>, it's related works and fandom. </p>
+						<p> Welcome to Captchalogue.com! This is a fansite dedicated to the <i>Homestuck</i> franchise and fandom. </p>
 						<p> <i>Homestuck</i> is a long-running, interactive multimedia webcomp<sup><a href="https://playerprophet.com/blog/webcomp/">[?]</a></sup> originally published from 2009 to 2017; The fourth in a series of <i><a href="http://www.mspaintadventures.com/newindex.php">MSPaint Adventures</a></i> webcomics defined by their user-suggestion driven nature and point and click adventure game satire. <i>Homestuck</i> would use Flash and HTML5 to incorporate games, audio, and animations into its narrative; fully taking advantage of the web as a medium. For more, check out the <a href="/newreader">New Readers Guide.</a></p>
 					</div>
 					<div class="conbox">
@@ -143,7 +143,5 @@
 		</footer>
 
 	</div>
-	
-	<script type="text/javascript" src='./captchalogue.js'></script>
 </body>
 
