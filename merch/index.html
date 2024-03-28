@@ -7,6 +7,7 @@
   <title>What Store</title>
 
   <link rel="stylesheet" href="store.css">
+  <script type="module" src="testscript.js" defer></script>
 </head>
 <body>
 
@@ -21,28 +22,20 @@
 
     <div id="nav">
 
-      <div class="navOpt">
-        <a href="">
-          <img src="./assets/btn-main-finery-2.gif" alt="">
-        </a>
+      <div class="navOpt" id="finery"> 
+          <img src="./assets/btn-main-finery-2.png" alt="">
       </div>
 
-      <div class="navOpt">
-        <a href="">
-          <img src="./assets/btn-main-parchments-2.gif" alt="">
-        </a>
+      <div class="navOpt" id="parchments"> 
+          <img src="./assets/btn-main-parchments-2.png" alt="">
       </div>
 
-      <div class="navOpt">
-        <a href="">
-          <img src="./assets/btn-cat-toys.jpg" alt="">
-        </a>
+      <div class="navOpt" id="toys">
+          <img src="./assets/btn-cat-toys.png" alt="">
       </div>
 
-      <div class="navOpt">
-        <a href="">
-          <img src="./assets/btn-main-trinkets-2.gif" alt="">
-        </a>
+      <div class="navOpt" id="trinkets">
+          <img src="./assets/btn-main-trinkets-2.png" alt="">
       </div>
 
     </div>
@@ -51,77 +44,15 @@
       <h4>Homestuck Merchandise Archive</h4>
       <p>This page will act as an archive of officially licensed Homestuck and MSPA merchandise released over the years. The goal of this is to display the beautiful artwork made by the many talented people who have contributed to it.If you find pieces that are missing from this collection, or have higher resolution images to contribute please contact us at placeholder@email.com</p>
     </div>
-
+    <div id="reset"><p>Reset selection.</p></div>
     <div id="products">
 
       <!-- Generate these with Js -->
-
-      <div class="item">
-        <a href=""> 
-          <div class="name">John Egbert Vinyl Figurine</div>
-          <img src="./assets/john-vinyl-thumb.png" alt="">
-          <div class="btn">View Now</div>
-        </a>
-      </div>
-
-      <div class="item">
-        <a href=""> 
-          <div class="name">Rose Egbert Vinyl Figurine</div>
-          <img src="./assets/rose-vinyl-thumb.png" alt="">
-          <div class="btn">View Now</div>
-        </a>
-      </div>
-
-      <div class="item">
-        <a href=""> 
-          <div class="name">Dave Egbert Vinyl Figurine</div>
-          <img src="./assets/dave-vinyl-thumb.png" alt="">
-          <div class="btn">View Now</div>
-        </a>
-      </div>
-
-      <div class="item">
-        <a href=""> 
-          <div class="name">Jade Egbert Vinyl Figurine</div>
-          <img src="./assets/jade-vinyl-thumb.png" alt="">
-          <div class="btn">View Now</div>
-        </a>
-      </div>
-
-      <div class="item">
-        <a href=""> 
-          <div class="name">John Egbert Vinyl Figurine</div>
-          <img src="./assets/john-vinyl-thumb.png" alt="">
-          <div class="btn">View Now</div>
-        </a>
-      </div>
-
-      <div class="item">
-        <a href=""> 
-          <div class="name">Rose Egbert Vinyl Figurine</div>
-          <img src="./assets/rose-vinyl-thumb.png" alt="">
-          <div class="btn">View Now</div>
-        </a>
-      </div>
-
-      <div class="item">
-        <a href=""> 
-          <div class="name">Dave Egbert Vinyl Figurine</div>
-          <img src="./assets/dave-vinyl-thumb.png" alt="">
-          <div class="btn">View Now</div>
-        </a>
-      </div>
-
-      <div class="item">
-        <a href=""> 
-          <div class="name">Jade Egbert Vinyl Figurine</div>
-          <img src="./assets/jade-vinyl-thumb.png" alt="">
-          <div class="btn">View Now</div>
-        </a>
-      </div>
-
     </div>
-
+	<div id ="pagebox">
+	<p id="previous">&lt;==</p>
+	<p id="next">==&gt;</p>
+	</div>
   </div>
 
   <div id="footer">

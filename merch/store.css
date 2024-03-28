@@ -101,19 +101,25 @@ body {
   font-weight: bold;
   text-decoration: none;
   color: #00c0ff;
+  height: 252px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 #products .item .name {
   text-decoration: underline;
   width: 130px;
-  margin: auto;
-
+  margin-left: auto;
+  margin-right: auto;
   padding: 10px;
 }
 
 #products .item img {
   display: block;
   margin: 5px auto 10px;
+  max-width: 120px;
+  max-height: 155px;
 }
 
 .btn {
@@ -121,8 +127,8 @@ body {
   display: block;
   line-height: 30px;
   width: 130px;
-  margin: auto;
-
+  margin-left: auto;
+  margin-right: auto;
   color: #FFFFFF;
   font-size: 11pt;
   text-transform: uppercase;
@@ -136,13 +142,41 @@ body {
   filter: saturate(1.25);
 }
 
+.navOpt img:hover {
+	filter: drop-shadow(0 0 0.75rem purple);
+}
+
+#pagebox {
+width: 100%;
+display: flex;
+flex-direction: row;
+justify-content: center;
+font-size: 17pt;
+font-family: "Courier New";
+font-weight: bold;
+}
+#pagebox p {
+	margin: 25px;
+	color: blue;
+}
+#pagebox p:hover{
+	color: black;	
+}
+#reset p{
+	color: blue;
+	text-decoration-line: underline;
+	margin: 10px;
+}
+#reset p:hover{
+	color: black;
+}
 /* == */
 
 #footer {
   width: 900px;
   margin-left: auto;
   margin-right: auto;
-  color: #cccccc;
+  color: #000000;
   font-size: 10pt;
 }
 
