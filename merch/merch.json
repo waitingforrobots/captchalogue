@@ -1,0 +1,940 @@
+[
+
+	{
+		"name": "Sleuth Diplomacy",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "sleuthdiplomacyshirt.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+
+	},
+	{
+		"name": "Pose as a Team",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "shitrealshirt.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+
+	},
+
+	{		
+		"name": "Problem Sleuth Fractal",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "mspa-fractal.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false
+
+	},
+	{
+		"name": "Sepulchritude Shirt",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "shirt_sepulch_front.png",
+		"addimg": ["shirt_sepulch_back.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+
+	},
+	{
+		"name": "Bathearst",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "shirt_bathearst.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+
+	},
+	{
+		"name": "Problem Sleuth Office",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "Problem Sleuth Office - Hussie.png",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+
+	},	
+	{
+		"name": "End Pose",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "Problem Sleuth End Pose - Hussie.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+
+	},
+	{
+		"name": "Candy Corn Vampire",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "shirt_ccvamp.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+
+	},
+	{
+		"name": "Green Slime Ghost Poster",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "mspa-ghost-print.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+
+	},
+	{
+		"name": "Squiddles Print",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "mspa-squiddle-print.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+
+	},
+	{
+		"name": "PesterChum",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "mspa-pesterchum.gif",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false
+
+	},
+	{
+		"name": "Sepulchritude Print",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "Sepulchritude - Hussie.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+
+	},
+	{
+		"name": "GameBro",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "mspa-gamebro.gif",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false
+
+	},
+	{
+		"name": "Problem Sleuth Book One: Compensation, Adequate",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "/Books/Problem Sleuth Book 1/Promo1.jpg",
+		"addImg": ["/Books/Problem Sleuth Book 1/Inside1.jpg"],
+		"genus": "parchment",
+		"species": "book",
+		"hires": false
+	},
+	{
+		"name": "Sweet Bro and Hella Jeff Stairs",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "mspa-sbahj-sunshine.gif",
+		"addImg":["mspa-sbahj-sunshine-pic.jpg", "mspa-sbahj-black.gif", "mspa-sbahj-black-pic.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false
+
+	},
+	{
+		"name": "Problem Sleuth Book Two: This is Complete BS",
+		"artist": "Andrew Hussie",
+		"artistLink":"https://www.homestuck.com/",
+		"imgLink": "/Books/Problem Sleuth Book 2/Cover.jpg",
+		"addImg":["/Books/Problem Sleuth Book 2/Inside1.jpg"],
+		"genus": "parchment",
+		"species": "book",
+		"hires": false
+
+	},
+	{
+		"name": "2011 Homestuck Calendar",
+		"artist": "Various",
+		"imgLink": "/Calendars/2011/Cover - Jessica Allison.png",
+		"calPage": {
+			"cover": {
+				"imgLink": "/Calendars/2011/Cover - Jessica Allison.png",
+				"artist": "Jessica Allison"
+			},
+			"January": {
+				"imgLink": "/Calendars/2011/January - Eyes5.png",
+				"artist": "Eyes5",
+				"artistLink":"http://www.metroidhat.com/"
+			},
+			"February": {
+				"imgLink": "/Calendars/2011/February - Myluckyseven",
+				"artist": "MyLuckySeven",
+				"artistLink": "https://twitter.com/jetbougan"
+			},
+			"March": {
+				"imgLink": "/Calendars/2011/March - Aborted Slunk.jpg",
+				"artist": "Paige Turner",
+				"artistLink": "https://linktr.ee/ice_age_paige"
+			},
+			"April": {
+				"imgLink": "/Calendars/2011/April - Lexxy.jpg",
+				"artist": "Lexxy",
+				"artistLink": "http://www.alexandra-douglass.com/"
+			},
+			"June": {
+				"imgLink": "/Calendars/2011/June - Vivian Ng.jpg",
+				"artist": "Killian Ng",
+				"artistLink": "http://cargocollective.com/viivus-draws"
+			},
+			"July": {
+				"imgLink": "/Calendars/2011/July - Richard Gung.png",
+				"artist": "Richard Gung",
+				"artistLink": "https://gungnir.works/"
+			},
+			"August": {
+				"imgLink": "/Calendars/2011/August - Rebecca Harding.jpg",
+				"artist": "Rebecca Harding",
+				"artistLink":"https://twitter.com/itsSupercar"
+			},
+			"September": {
+				"imgLink":"/Calendars/2011/September - Nic Carey.jpg",
+				"artist": "Nic Carey",
+				"artistLink": "https://niccarey.tumblr.com/"
+			},
+			"October": {
+				"imgLink":"/Calendars/2011/October - Saffronscarf.png",
+				"artist":"SaffronScarf",
+				"artistLink":"https://saffronscarf.tumblr.com/"
+			},
+			"November": {
+				"imgLink":"/Calendars/2011/November - Tmorra.png",
+				"artist":"Tavia Morra",
+				"artistLink":"https://www.taviamorra.com/"
+			}			
+		},
+		"genus": "parchment",
+		"species": "calendar",
+		"status": "11/13",
+		"hires": false
+
+	},
+	{
+		"name": "The Big Man",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com/",
+		"imgLink": "mspa-bigman-pic.jpg",
+		"addImg": ["mspa-bigman.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false
+	},
+	{
+		"name": "Sepulchritude Hoodie",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com/",
+		"imgLink": "mspa-sepulch-hood.jpg",
+		"addImg": ["mspa-sepulch-hood-pic.jpg", "shirt_sepulch_back.png"],
+		"genus": "finery",
+		"species": "hoodie",
+		"hires": true
+	},
+	{ 
+		"name": "I Have the Car",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com/",
+		"imgLink": "mspa-thecar.jpg",
+		"addImg": ["mspa-thecar-pic.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false
+	},
+	{
+		"name": "Kanaya",
+		"artist": "skepticArcher",
+		"artistLink": "http://instagram.com/skepticarcher",
+		"imgLink": "Kanaya - SkepsisFox.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "Together",
+		"artist": "Lexxy",
+		"artistLink": "http://www.alexandra-douglass.com/",
+		"imgLink": "Together - Lexxy.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": "false"
+	},
+	{ 
+		"name": "Bec Noir",
+		"artist": "skepticArcher",
+		"artistLink": "http://instagram.com/skepticarcher",
+		"imgLink": "Bec Noir - skepticarcher.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Medium",
+		"artist": "Cindy Dominguez and Andrew Hussie",
+		"artistLink": "https://www.hiveswap.com/",
+		"imgLink": "medium - cindy.jpg",
+		"genus": "parchment",
+		"species": "print",	
+		"hires": true
+	},
+	{
+		"name": "Investigate",
+		"artist": "Lexxy", 
+		"artistLink": "http://www.alexandra-douglass.com/",
+		"imgLink": "Investigate - Lexxy.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	}, 
+	{
+		"name": "Scourge Sisters",
+		"artist": "skepticArcher",
+		"artistLink": "http://instagram.com/skepticarcher",
+		"imgLink": "Scourge Sisters - SkepticArcher.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	}, 
+	{
+		"name": "That Dame is Bad News",
+		"artist": "Brett Muller",
+		"artistLink": "https://twitter.com/brettmuller",
+		"imgLink": "That Dame is Bad News - Brett Muller.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Beat Mesa Battle",
+		"artist": "Paige Turner",
+		"artistLink": "https://linktr.ee/ice_age_paige",
+		"imgLink": "Beat Mesa Battle - Abortedslunk.png",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Land of Frost",
+		"artist": "Lexxy",
+		"artistLink": "http://www.alexandra-douglass.com/",
+		"imgLink": "Lofaf - Lexxy.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	}, 
+	{
+		"name": "Skaian Soiree",
+		"artist": "Greliz",
+		"artistLink": "https://greliz.tumblr.com/",
+		"imgLink": "Skaian Soiree - Greliz.png",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	}, 
+	{
+		"name": "C.R.U.N.K (Gold Edition",
+		"artist": "Rebecca Harding",
+		"artistLink": "https://twitter.com/itsSupercar",
+		"imgLink": "CRUNK - Rebecca Harding.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "THE FELT",
+		"artist": "skepticArcher",
+		"artistLink": "http://instagram.com/skepticarcher",
+		"imgLink": "the felt - Skepticarcher.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	}, 
+	{
+		"name": "Slain",
+		"artist": "Lexxy",
+		"artistLink": "http://www.alexandra-douglass.com/",
+		"imgLink": "Slain - Lexxy.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Exiles in the Desert",
+		"artist": "Carla Bravo",
+		"artistLink": "https://web.archive.org/web/20160310113730/http://ktysh.deviantart.com/",
+		"imgLink":"Exiles in the Desert - Carla Bravo.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "Witch of Space (Muchastuck)",
+		"artist": "Emily Hu", 
+		"artistLink": "https://twitter.com/emilyyyhu",
+		"imgLink": "Witch of Space - Emily Hu.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Knight of Time  (Muchastuck)",
+		"artist": "Emily Hu", 
+		"artistLink": "https://twitter.com/emilyyyhu",
+		"imgLink": "Knight of Time - Emily Hu.jpg",
+		"genus": "parchment",
+		"species": "print",	
+		"hires": true
+	},
+	{
+		"name": "Seer of Light (Muchastuck)",
+		"artist": "Emily Hu", 
+		"artistLink": "https://twitter.com/emilyyyhu",
+		"imgLink": "Seer of Light - Emily Hu.jpg",
+		"genus": "parchment",
+		"species": "print",	
+		"hires": true
+	},
+	{
+		"name": "Heir of Breath (Muchastuck)",
+		"artist": "Emily Hu", 
+		"artistLink": "https://twitter.com/emilyyyhu",
+		"imgLink": "Heir of Breath - Emily Hu.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Doc Scratch: Be An Excellent Host",
+		"artist": "Myluckyseven",
+		"artistLink": "https://twitter.com/jetbougan",
+		"imgLink": "Doc Scratch - Myluckyseven.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Scrollstuck",
+		"artist": "skepticArcher",
+		"artistLink": "http://instagram.com/skepticarcher",
+		"imgLink": "Scrollstuck - skepticArcher.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Can Town",
+		"artist": "SaffronScarf",
+		"artistLink": "https://saffronscarf.tumblr.com/",
+		"imgLink": "Can Town - Saffronscarf.png",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Land of Wind and Shade",
+		"artist": "skepticArcher",
+		"artistLink": "http://instagram.com/skepticarcher",
+		"imgLink": "LOWAS - SkepticArcher.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Rose",
+		"artist": "Nic Carey",
+		"artistLink": "https://niccarey.tumblr.com/",
+		"imgLink": "Rose - Nic Carey.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "DANCE",
+		"artist": "Lexxy",
+		"artistLink": "http://www.alexandra-douglass.com",
+		"imgLink": "Dance - Lexxy.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	}, 
+	{
+		"name": "Land of Pulse and Haze",
+		"artist": "Magnolia Porter",
+		"artistLink": "https://twitter.com/MagnoliaPearl",
+		"imgLink": "Land of Pulse and Haze - Magnolia Porter.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{	
+		"name": "Seer vs. Slayer",
+		"artist": "skepticArcher",
+		"artistLink": "http://instagram.com/skepticarcher",
+		"imgLink": "Seer Vs Slayer - Skepsisfox.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Grimdark Rose",
+		"artist": "Lexxy",
+		"artistLink": "http://www.alexandra-douglass.com",
+		"imgLink": "Grimdark Rose - Lexxy.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Homestuck Book One",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "/Books/Topatoco Book 1/Cover.jpg",
+		"addImg": ["/Books/Topatoco Book 1/Inside 1.jpg", "/Books/Topatoco Book 1/Bookplate.jpg"],
+		"genus": "parchment",
+		"species": "book",
+		"hires": false
+	},
+	{
+		"name": "Problem Sleuth Book 3: Suitor to the Sodajerk's Confidante",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "/Books/Problem Sleuth Book 3/Cover.jpg",
+		"addImg": ["/Books/Problem Sleuth Book 3/Inside1.jpg"],
+		"genus": "parchment",
+		"species": "book",
+		"hires": "false"
+	},
+	{
+		"name": "Jade on Prospit",
+		"artist": "Shelby Cragg",
+		"artistLink": "https://shelbycragg.squarespace.com/",
+		"imgLink": "Jade on Prospit - Shelby.png",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+
+	},
+	{
+		"name": "Prospit & Derse",
+		"artist": "Lexxy",
+		"artistLink": "http://www.alexandra-douglass.com",
+		"imgLink": "ProspitDerse - Lexxy.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "d00m",
+		"artist": "Kecky",
+		"artistLink": "https://twitter.com/kecky415",
+		"imgLink": "D00m - Kecky.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "Vriskax8",
+		"artist": "shelby Cragg",
+		"artistLink": "https://shelbycragg.squarespace.com/",
+		"imgLink": "Vriska8 - Shelby.png",
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "Purebred Monarch",
+		"artist": "skepticArcher",
+		"artistLink": "http://instagram.com/skepticarcher",
+		"imgLink": "Purebred Monarch - SkepticArcher.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "Kids: Rise Up",
+		"artist": "Rachel Roach",
+		"artistLink": "https://roach-works.tumblr.com/",
+		"imgLink": "Kids Rise Up - Rachel Roach.png",
+		"genus": "parchment",
+		"species": "print",	
+		"hires": false
+	},
+	{
+		"name": "Dog Tier",
+		"artist": "Lexxy",
+		"artistLink": "http://www.alexandra-douglass.com",
+		"imgLink": "Cascade Jade - Lexxy.jpg",
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "2012 Homestuck Calendar",
+		"artist": "Various",
+		"imgLink": "/Calendars/2012/Cover - Lexxy.jpg",
+		"calPage": {
+			"cover": {
+				"imgLink": "/Calendars/2012/Cover - Lexxy.jpg",
+				"artist": "Lexxy",
+				"artistLink": "http://www.alexandra-douglass.com"
+
+			},
+			"January": {
+				"imgLink": "/Calendars/2012/January - Shad.png",
+				"artist": "Shad Andrews",
+				"artistLink":"https://www.shad-andrews.com/"
+			},
+			"February": {
+				"imgLink": "/Calendars/2012/February - Roachpatrol.jpg",
+				"artist": "Rebecca Roach",
+				"artistLink": "https://roach-works.tumblr.com/"
+			},
+			"March": {
+				"imgLink": "/Calendars/2012/March - Skypup.png",
+				"artist": "MelonGifts",
+				"artistLink": "https://www.tumblr.com/melongifts"
+			},
+			"April": {
+				"imgLink": "/Calendars/2012/April - Emily Hu.jpg",
+				"artist": "Emily Hu",
+				"artistLink": "https://twitter.com/emilyyyhu"
+			},
+			"May": {
+				"imgLink": "/Calendars/2012/May - Lexxy.jpg",
+				"artist": "Lexxy",
+				"artistLink": "http://www.alexandra-douglass.com"
+			},
+			"June": {
+				"imgLink": "/Calendars/2012/June - SaffronScarf.png",
+				"artist": "SaffronScarf",
+				"artistLink": "https://saffronscarf.tumblr.com/"
+			},
+			"July": {
+				"imgLink": "/Calendars/2012/July - Rebecca Harding.jpg",
+				"artist": "Rebecca Harding",
+				"artistLink":"https://twitter.com/itsSupercar"
+			},
+			"August": {
+				"imgLink":"/Calendars/2012/August - Greliz.png",
+				"artist": "Greliz",
+				"artistLink": "https://greliz.tumblr.com/"
+			},
+			"September": {
+				"imgLink":"/Calendars/2012/September - SkepticArcher.jpg",
+				"artist":"SaffronScarf",
+				"artistLink":"http://instagram.com/skepticarcher"
+			},
+			"October": {
+				"imgLink":"/Calendars/2012/October - Maya.jpg",
+				"artist":"Maya Kern",
+				"artistLink":"https://www.mayakern.com/"
+			},
+			"November": {
+				"imgLink": "November - LunariChaos.png",
+				"artist": "LunariChaos",
+				"artistLink": "https://wodnesse.tumblr.com/"
+			},
+			"December": {
+				"imgLink": "December - Rendigo.png",
+				"artist": "Rennie Kingsley",
+				"artistLink": "http://www.renniekingsley.com/"
+			}			
+		},
+		"genus": "parchment",
+		"species": "calendar",
+		"status": "12/13",
+		"hires": false
+	},
+	{
+		"name": "Beta Kids Pins",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "beta-pins.jpg",
+		"genus": "trinket",
+		"species": "pin",		
+		"hires": true
+	},
+	{
+		"name": "Low Blood Troll Pins",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "Lowbloodpins.jpg",
+		"genus": "trinket",
+		"species": "pin",
+		"hires": true
+	},
+	{
+		"name": "Mid Blood Troll Pins",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "midbloodpins.jpg",
+		"genus": "trinket",
+		"species": "keychain",	
+		"hires": true
+	},
+	{
+		"name": "High Blood Troll Pins",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "highbloodpins.jpg",
+		"genus": "trinket",
+		"species": "pin",
+		"hires": true
+	},
+	{
+		"name": "Alpha Kids Pins",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "alphapins1.jpg",
+		"addImg": ["alphapins2.jpg"],
+		"genus": "trinket",
+		"species": "pin",
+		"hires": true
+	},
+	{
+		"name": "Sufferer Necklace",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "sufferer-necklace-detail.jpg",
+		"addImg": ["Sufferer-necklace-detail2.jpg"],
+		"genus": "trinket",
+		"species": "jewelry",
+		"hires": true
+	},
+	{
+		"name": "Sburb Portal Necklace",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "sburb-necklace-detail.jpg",
+		"addImg": ["sburb-necklace-detail2.jpg"],
+		"genus": "trinket",
+		"species": "jewelry",
+		"hires": true
+	},	{
+		"name": "Sburb Portal Keychain",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "sburb-keychain-detail.jpg",
+		"addImg": ["sburb-keychain-detail2.jpg"],
+		"genus": "trinket",
+		"species": "keychain",
+		"hires": true
+	},
+	{
+		"name": "Jester Keychain",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": "jester-detail.jpg",
+		"genus": "trinket",
+		"species": "keychain",	
+		"hires": true
+	},
+	{
+		"name": "The Beta Kids",
+		"artist": "Sunny Evans",
+		"artistLink": "https://ikimaru.tumblr.com/",
+		"imgLink": "Beta Kids - Ikimaru.png",
+		"genus": "finery",
+		"species": "shirt",	
+		"hires": true,
+		"info": "Grand prize winner of the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Rose Evolved",
+		"artist": "Bidelle Ward",
+		"artistLink": "https://andarixblog.wordpress.com/2014/05/28/whatpumpkin-rose-evolved-is-what-pumpkins/",
+		"imgLink": "rose evolved - bidelle ward.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "WhatPumpkin's pick in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Let's Play",
+		"artist": "Criselle Poblette",
+		"artistLink": "https://www.behance.net/criselle",
+		"imgLink": "Lets Play - Putoshop.jpg",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Runner-Up in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Mutant Collection",
+		"artist": "Emily Blundell",
+		"artistLink": "https://www.instagram.com/vaahlkult/",
+		"imgLink": "Mutant Collection - Emily Blundell.png",
+		"genus": "finery",
+		"species": "shirt",	
+		"hires": true,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Iron Infidel",
+		"artist": "Elanor Pam",
+		"artistLink": "https://elanorpam.tumblr.com/",
+		"imgLink": "Iron Infidel - Elanor Pam.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Pimps in the Crib",
+		"artist": "Alex Wolfe",
+		"artistLink": "https://wolfeish.tumblr.com/",
+		"imgLink": "Pimps in the Crib - Alex Wolf.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Yin and Yang",
+		"artist": "Elena Busato",
+		"artistLink": "https://www.tumblr.com/elenaditgoia",
+		"imgLink": "Yin and Yang - Elena Busato.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "I Won't Break",
+		"artist": "Damla Toga",
+		"artistLink": "https://damllama.tumblr.com/",
+		"imgLink": "Splintered - Ninetydrops.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Homestuck Crest",
+		"artist": "Nick Tsang",
+		"artistLink": "https://www.deviantart.com/vesssel",
+		"imgLink": "homestuck crest - vesssel.jpg",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Ancestral",
+		"artist": "Mary MacArthur",
+		"artistLink": "https://snowflakeclockwork.blogspot.com/",
+		"imgLink": "Ancestral - Snowflakeclockwork.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Betas",
+		"artist": "Brittany Strange",
+		"artistLink": "https://www.tumblr.com/heyitsbumblebee",
+		"imgLink": "Betas - Brittany Strange.jpg",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Hot Topic's pick in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Jade: Rise",
+		"artist": "Zixing Guo",
+		"artistLink": "https://www.linkedin.com/in/zixingguo",
+		"imgLink": "Jade Rise Up - Zixing.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "GlitchPrince",
+		"artist": "Elanor Pam",
+		"artistLink": "https://elanorpam.tumblr.com/",
+		"imgLink": "glitchprince - elanor .jpg",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Run Exiles Run!",
+		"artist": "Drew Borja",
+		"artistLink": "https://drewborja.wixsite.com/drewborja",
+		"imgLink": "Run Exiles - Drew Borja.jpg",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "DR4GON TH3R3 S33R?",
+		"artist": "Shelby Martinez-Matthews",
+		"artistLink": "https://twitter.com/Xeybhls",
+		"imgLink": "DR4GON TH3R3 S33R  - Shelby-Martinez-Mathews.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Mark of a Hero",
+		"artist": "Seitoro",
+		"artistLink": "https://seitoro.tumblr.com/",
+		"imgLink": "Mark of a Hero - seitoro.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "H4NG1NG DR4GONS",
+		"artist": "Maya Shrestha",
+		"artistLink": "https://www.tumblr.com/mayarashi",
+		"imgLink": "h4nging dr4gons.png",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Andrew Hussie's pick in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Primaries + Black",
+		"artist": "Avery Kim",
+		"artistLink": "https://web.archive.org/web/20140531034143/http://aeolusknight.tumblr.com/",
+		"imgLink": "primaries.jpg",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable mention in the 2014 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Character Select",
+		"artist": "Natalie Kendrick",
+		"artistLink": "https://gnatsattack.tumblr.com/",
+		"imgLink": "natalie_select_400.jpg",
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+	}	
+]
