@@ -96,7 +96,7 @@ body {
   box-sizing: border-box;
 }
 
-#products .item a {
+#products .item  {
   font-size: 12px;  
   font-weight: bold;
   text-decoration: none;
@@ -186,4 +186,119 @@ font-weight: bold;
   background-color: #aa11bb;
   height: 20px;
   border-radius: 0px 0px 12px 12px / 0px 0px 15px 15px;
+}
+
+/* lightbox */
+#lightbox {
+	position: fixed;	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%
+}
+#outerLB {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	opacity: 0.8
+}
+#innerLB {
+	position: fixed;
+	width: 80%;
+	background-color: #f0efef;
+	border-radius: 15px;
+	max-height: 90%;
+	overflow: scroll;
+	display: flex;
+	flex-direction: column;
+}
+#prodBox {
+	display: flex;
+	flex-direction: row;	
+}
+#prodImg {
+	max-height: 750px;
+	max-width: 1350px;
+	margin: auto;
+	position: relative;
+	justify-content: center;
+}
+.lbArrow {
+	margin: 350px 10px 350px 10px;
+	height: 50px;
+	filter: invert(61%) sepia(0%) saturate(1%) hue-rotate(225deg) brightness(94%) contrast(90%);
+}
+.lbArrow:hover {
+	filter: invert(0%);
+}
+
+#prodName {
+	margin-left: 10px;
+}
+.fancybox {
+	max-width: 90%;
+
+	border: solid 4px #d5d5d2;
+	border-radius: 30px;
+
+	margin: 7px auto;
+	padding: 7px;
+	
+	display: flex;
+	justify-content: left;
+	align-items: center;
+
+	background: linear-gradient(#ffffff, #dddddb);
+}
+.fancytext {
+	margin: 10px;
+	font-size: 15px;
+}
+.fancyicon {
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 30px;
+	border-color: #d5d5d2;
+	height: 200px;
+}
+#lbNav {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+#lbClose img{
+	max-height: 50px;
+	margin: 5px;
+}
+#lbClose img:hover {
+	filter: invert(18%) sepia(75%) saturate(5097%) hue-rotate(352deg) brightness(85%) contrast(111%);
+}
+#carousel {
+	display:flex;
+	flex-direction: row;
+	height: 100px;
+	justify-content: center;
+}
+#carousel img {
+	margin: 5px; 
+	border: 2px;
+	border-color: #d5d5d2;
+	border-radius: 5px;
+	
+	height: 75px;
+	width: 75px;
+	border-style: solid;
+}
+#nameArtist {
+	display: flex;
+	flex-direction: row;
+}
+#anthName {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
 }
