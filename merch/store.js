@@ -31,6 +31,7 @@ const fineryButt = document.getElementById('finery');
 const parchButt = document.getElementById('parchments');
 const toyButt = document.getElementById('toys');
 const trinkButt = document.getElementById('trinkets');
+const miscButt = document.getElementById('misc');
 const nextButt = document.getElementById('next');
 const prevButt = document.getElementById('previous');
 const resetButt = document.getElementById('reset')
@@ -55,6 +56,12 @@ trinkButt.onclick = () => {
 	pageNumber = 0;
 	species = false;
 	generate()};
+miscButt.onclick = () => {
+	displayMode = 'misc';
+	pageNumber = 0;
+	species = false;
+	generate()
+}
 nextButt.onclick = () => {
 	pageNumber += 1;
 	generate()

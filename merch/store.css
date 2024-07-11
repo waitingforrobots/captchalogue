@@ -280,8 +280,8 @@ font-weight: bold;
 #carousel {
 	display:flex;
 	flex-direction: row;
-	height: 100px;
 	justify-content: center;
+	flex-wrap: wrap;
 }
 #carousel img {
 	margin: 5px; 

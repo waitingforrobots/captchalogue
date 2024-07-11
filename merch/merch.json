@@ -350,7 +350,7 @@
 	}, 
 	{
 		"name": "Skaian Soiree",
-		"artist": "Greliz",
+		"artist": "Johnathan Griffiths",
 		"artistLink": "https://greliz.tumblr.com/",
 		"imgLink": ["Skaian Soiree - Greliz.png"],
 		"genus": "parchment",
@@ -549,7 +549,7 @@
 	},
 	{
 		"name": "d00m",
-		"artist": "Kecky",
+		"artist": "Kristin Kemper",
 		"artistLink": "https://twitter.com/kecky415",
 		"imgLink": ["D00m - Kecky.jpg"],
 		"genus": "parchment",
@@ -619,7 +619,7 @@
 			{
 				"name": "March",
 				"imgLink": "/Calendars/2012/March - Skypup.png",
-				"artist": "MelonGifts",
+				"artist": "Laura Frick",
 				"artistLink": "https://www.tumblr.com/melongifts"
 			},
 			{
@@ -649,7 +649,7 @@
 			{
 				"name": "August",
 				"imgLink":"/Calendars/2012/August - Greliz.png",
-				"artist": "Greliz",
+				"artist": "Jonathan Griffiths",
 				"artistLink": "https://greliz.tumblr.com/"
 			},
 			{
@@ -667,7 +667,7 @@
 			{
 				"name": "November",
 				"imgLink": "/Calendars/2012/November - LunariChaos.png",
-				"artist": "LunariChaos",
+				"artist": "Róan",
 				"artistLink": "https://wodnesse.tumblr.com/"
 			},
 			{
@@ -762,6 +762,1004 @@
 		"genus": "trinket",
 		"species": "keychain",	
 		"hires": true
+	},
+	{
+		"name": "Homestuck Book Two",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": ["/Books/Topatoco Book 2/Cover.jpg", "/Books/Topatoco Book 2/Inside 1.jpg"],
+		"genus": "parchment",
+		"species": "book",
+		"hires": false
+	},
+	{
+		"name": "Problem Sleuth Book 4: Black Liquid Sorrow",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": ["/Books/Problem Sleuth Book 4/Cover.jpg", "/Books/Problem Sleuth Book 4/Inside1.jpg"],
+		"genus": "parchment",
+		"species": "book",
+		"hires": "false"
+	},
+	{
+		"name": "2013 Homestuck Calendar",
+		"artist": "Anthology",
+		"imgLink": ["/Calendars/2013/Cover - HamletMachine.jpg"],
+		"anthPage": [
+			{
+				"name": "Cover",
+				"imgLink": "/Calendars/2013/Cover - HamletMachine.jpg",
+				"artist": "HamletMachine",
+				"artistLink": "https://www.hamletmachine.com/about/"
+
+			},
+				{
+				"name": "January 2013",
+				"imgLink": "/Calendars/2013/January 2013 - Lazili.jpg",
+				"artist": "Marta Lazpita",
+				"artistLink": "https://www.instagram.com/lazpita_studio/"
+			},
+			{
+				"name": "March",
+				"imgLink": "/Calendars/2013/march 2013 - melongifts.png",
+				"artist": "Laura Frick",
+				"artistLink": "https://www.tumblr.com/melongifts"
+			},
+			{
+				"name": "April",
+				"imgLink": "/Calendars/2013/april 2013 - chazzerpan.png",
+				"artist": "Chaz Canterbury",
+				"artistLink": "https://chazzerpan.tumblr.com/"
+			},
+			{
+				"name": "May",
+				"imgLink": "/Calendars/2013/May 2013 - melongifts.jpg",
+				"artist": "Laura Frick",
+				"artistLink": "https://www.tumblr.com/melongifts"
+			},
+			{
+				"name": "June",
+				"imgLink": "/Calendars/2013/june - rendigo.jpeg",
+				"artist": "Rennie Kingsley",
+				"artistLink": "http://www.renniekingsley.com/"
+			},
+			{
+				"name": "July",
+				"imgLink": "/Calendars/2013/July 2013 - KcGreen.png",
+				"artist": "KC Green",
+				"artistLink":"https://twitter.com/kcgreenn"
+			},
+			{
+				"name": "August",
+				"imgLink":"/Calendars/2013/August 2013 - shad.png",
+				"artist": "Shad Andrews",
+				"artistLink":"https://www.shad-andrews.com/"
+			},
+			{
+				"name": "October",
+				"imgLink":"/Calendars/2013/October - Greliz.jpg",
+				"artist": "Johnathan Griffiths",
+				"artistLink": "https://greliz.tumblr.com/"
+			},
+			{
+				"name": "November",
+				"imgLink": "/Calendars/2013/November 2013 - Kecky.jpeg",
+				"artist": "Kristin Kemper",
+				"artistLink": "https://twitter.com/kecky415"
+			},
+			{
+				"name": "December",
+				"imgLink": "/Calendars/2013/december 2013 - rendigo.jpg",
+				"artist": "Rennie Kingsley",
+				"artistLink": "http://www.renniekingsley.com/"
+			},	
+			{
+				"name": "January 2014",
+				"imgLink": "/Calendars/2013/January 2014 - Rendigo.jpg",
+				"artist": "Rennie Kingsley",
+				"artistLink": "http://www.renniekingsley.com/"
+			},		
+			{
+				"name": "February 2014",
+				"imgLink": "/Calendars/2013/February 2014 - Emily Hu.jpg",
+				"artist": "Emily Hu", 
+				"artistLink": "https://twitter.com/emilyyyhu"
+			}			
+		],
+		"genus": "parchment",
+		"species": "calendar",
+		"anthology": true,
+		"complete": false,
+		"hires": false,
+		"info": "Currently missing February 2013 by Lyle Partridge, September by Em and Back Cover by HamletMachine"
+	},
+	{
+		"name": "Chase",
+		"artist": "Lyle Partridge",
+		"artistLink": "https://twitter.com/lyleisland",
+		"imgLink": ["Chase - Lyle.jpg"],
+		"genus": "finery",
+		"species": "hoodie",
+		"hires": false
+	},
+	{
+		"name": "SBaHJ Magnetic \"Poetry\"",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": ["mspa-sbahj-poetry-pic.jpg", "mspa-sbahj-poetry.jpg"],
+		"genus": "toys",
+		"species": "magnet",
+		"hires": false
+	},
+	{
+		"name": "Sweet Bro and Hella Jeff Limited Hardcover",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": ["/Books/SBAHJ/Cover.jpg", "/Books/SBAHJ/Cover2.jpg", "/Books/SBAHJ/Inside1.jpg",  "/Books/SBAHJ/Inside2.jpg", "/Books/SBAHJ/Inside3.jpg", "/Books/SBAHJ/Inside4.jpg", "/Books/SBAHJ/Inside5.jpg", "/Books/SBAHJ/Spine.jpg"],
+		"genus": "parchment",
+		"species": "book",
+		"hires": false
+	},
+	{
+		"name": "Captchalogue Dry Erase Boards",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": ["captcha 1.jpg", "captcha 2.jpg"],
+		"genus": "toys",
+		"species": "magnet",
+		"hires": false
+	},
+
+	{
+		"name": "John Egbert",
+		"artist": "Rennie Kingsley",
+		"artistLink": "http://www.renniekingsley.com/",
+		"imgLink": ["John Shirt - Rendigo.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+	},
+	{
+		"name": "Rose Lalonde",
+		"artist": "Rennie Kingsley",
+		"artistLink": "http://www.renniekingsley.com/",
+		"imgLink": ["Rose Shirt - Rendigo.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+	},
+	{
+		"name": "Dave Strider",
+		"artist": "Rennie Kingsley",
+		"artistLink": "http://www.renniekingsley.com/",
+		"imgLink": ["Dave shirt - Rendigo.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+	},
+	{
+		"name": "Jade Harley",
+		"artist": "Rennie Kingsley",
+		"artistLink": "http://www.renniekingsley.com/",
+		"imgLink": ["Jade Shirt - Rendigo.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+	},
+	{
+		"name": "Jane Crocker",
+		"artist": "Rennie Kingsley",
+		"artistLink": "http://www.renniekingsley.com/",
+		"imgLink": ["Jane Shirt - Rendigo.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+	},
+	{
+		"name": "Roxy Lalonde",
+		"artist": "Rennie Kingsley",
+		"artistLink": "http://www.renniekingsley.com/",
+		"imgLink": ["Roxy Shirt - Rendigo.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+	},
+	{
+		"name": "Dirk Strider",
+		"artist": "Rennie Kingsley",
+		"artistLink": "http://www.renniekingsley.com/",
+		"imgLink": ["Dirk Shirt - Rendigo.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+	},
+	{
+		"name": "Jake English",
+		"artist": "Rennie Kingsley",
+		"artistLink": "http://www.renniekingsley.com/",
+		"imgLink": ["Jake Shirt - Rendigo.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+	},
+	{
+		"name": "Problem Sleuth Book 5: Sepulchritude",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": ["/Books/Problem Sleuth Book 5/Cover 1.jpg", "/Books/Problem Sleuth Book 5/Spine.jpg", "/Books/Problem Sleuth Book 5/Cover 2.jpg", "/Books/Problem Sleuth Book 5/Back.jpg"],
+		"genus": "parchment",
+		"species": "book",
+		"hires": "false"
+	},
+	{
+		"name": "Homestuck Book 3",
+		"artist": "Andrew Hussie",
+		"artistLink": "https://www.homestuck.com",
+		"imgLink": ["/Books/Topatoco Book 3/Cover.jpg", "/Books/Topatoco Book 3/Spine.jpg", "/Books/Topatoco Book 3/Cover 1.jpg", "/Books/Topatoco Book 3/Inside 1.jpg", "/Books/Topatoco Book 3/Back.jpg"],
+		"genus": "parchment",
+		"species": "book",
+		"hires": "false"
+	},
+	{
+		"name": "A Zephyrous Accession",
+		"artist": "Caitlyn Humphreys",
+		"artistLink": "https://hazya.tumblr.com/",
+		"imgLink": ["LOWAS - Hazya .png"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Strings Between Clouds and Earth",
+		"artist": "Caitlyn Humphreys",
+		"artistLink": "https://hazya.tumblr.com/",
+		"imgLink": ["LOLAR - Hazya.png"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Heat Suspends Time Itself",
+		"artist": "Caitlyn Humphreys",
+		"artistLink": "https://hazya.tumblr.com/",
+		"imgLink": ["LOHAC - Hazya.png"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Forge in Frost",
+		"artist": "Caitlyn Humphreys",
+		"artistLink": "https://hazya.tumblr.com/",
+		"imgLink": ["LOFAF - Hayza.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "Homestuck Tarot Cards", 
+		"artist": "Anthology", 
+		"artistLink": "https://web.archive.org/web/20140910094821/http://www.whatpumpkin.com/Homestuck-Tarot-Cards.html",
+		"imgLink": ["/Homestuck Tarot/0 - The Fool.jpeg"],
+		"anthPage": [
+			{
+				"name": "The Fool",
+				"imgLink": "/Homestuck Tarot/0 - The Fool.jpeg",
+				"artist": "Róan",
+				"artistLink": "https://wodnesse.tumblr.com/"
+			},
+			{
+				"name": "The Magician",
+				"imgLink": "/Homestuck Tarot/1 - The Magician.jpeg",
+				"artist": "J.N. Wiedel",
+				"artistLink": "https://blog.jnwiedle.com/"
+			},
+			{
+				"name": "The High Priestess",
+				"imgLink": "/Homestuck Tarot/2 - The High Priestess.jpeg",
+				"artist": "Jessie Wong",
+				"artistLink": ""
+			},
+			{
+				"name": "The Empress",
+				"imgLink": "/Homestuck Tarot/3 - The Empress.jpeg",
+				"artist": "Zilon",
+				"artistLink": "https://notzilon.tumblr.com/"
+			},
+			{
+				"name": "The Emperor",
+				"imgLink": "/Homestuck Tarot/4 - The Emperor.jpeg",
+				"artist": "Magnolia Porter",
+				"artistLink": "https://twitter.com/MagnoliaPearl"
+			},
+			{
+				"name": "The Heirophant",
+				"imgLink": "/Homestuck Tarot/5 - The Heirophant.jpeg",
+				"artist": "Rudy Mora",
+				"artistLink": "https://twitter.com/rudycomics"
+			},
+			{
+				"name": "The Lovers",
+				"imgLink": "/Homestuck Tarot/6 - The Lovers.jpeg",
+				"artist": "J.R. Doyle",
+				"artistLink": "https://twitter.com/theyoungdoyler"
+			},
+			{
+				"name": "The Chariot",
+				"imgLink": "/Homestuck Tarot/7 - The Chariot.jpeg",
+				"artist": "Sintija Ukše",
+				"artistLink": "https://siins.tumblr.com/"
+			},
+			{
+				"name": "Justice",
+				"imgLink": "/Homestuck Tarot/8 - Justice.jpeg",
+				"artist": "Tracy Liang",
+				"artistLink": "https://tsliang.weebly.com/"
+			},
+			{
+				"name": "The Hermit",
+				"imgLink": "/Homestuck Tarot/9 - The Hermit.jpeg",
+				"artist": "Genevieve Barron",
+				"artistLink": "https://www.gnvbarron.com/"
+			},
+			{
+				"name": "Wheel of Fortune",
+				"imgLink": "/Homestuck Tarot/10 - Wheel of Fortune.jpeg",
+				"artist": "Genevieve Barron",
+				"artistLink": "https://www.gnvbarron.com/"
+			},
+			{
+				"name": "Strength",
+				"imgLink": "/Homestuck Tarot/11 - Strength.jpeg",
+				"artist": "Myra",
+				"artistLink": "https://web.archive.org/web/20200510203515/https://treeleafclover.tumblr.com/"		
+			},
+			{
+				"name": "The Hanged Man",
+				"imgLink": "/Homestuck Tarot/12 - The Hanged Man.jpeg",
+				"artist": "Leslie Hung",
+				"artistLink": "https://twitter.com/lesliehung"
+			},
+			{
+				"name": "Death",
+				"imgLink": "/Homestuck Tarot/13 - Death.jpeg",
+				"artist": "Johnathan Griffiths",
+				"artistLink": "https://greliz.tumblr.com/"
+			},
+			{
+				"name": "Temperance",
+				"imgLink": "/Homestuck Tarot/14 - Temperance.jpeg",
+				"artist": "Pao",
+				"artistLink": "https://paobangboom.tumblr.com/"
+			},
+			{
+				"name": "The Devil",
+				"imgLink": "/Homestuck Tarot/15 - The Devil.jpeg",
+				"artist": "Shad Andrews",
+				"artistLink":"https://www.shad-andrews.com/"
+			},
+			{
+				"name": "The Tower",
+				"imgLink": "/Homestuck Tarot/16 - The Tower.jpeg",
+				"artist": "Mary McLain",
+				"artistLink": "http://dobiedraws.com/"
+			},
+			{
+				"name": "The Star",
+				"imgLink": "/Homestuck Tarot/17 - The Star.jpeg",
+				"artist": "Brigitte Woltjen",
+				"artistLink": "http://www.bwoltjen.com/"
+			},
+			{
+				"name": "The Moon",
+				"imgLink": "/Homestuck Tarot/18 - The Moon.jpeg",
+				"artist": "Emily Hu",
+				"artistLink": "https://twitter.com/emilyyyhu"
+			},
+			{
+			
+				"name": "The Sun",
+				"imgLink": "/Homestuck Tarot/77 - The Sun.jpeg",
+				"artist": "Aiden Jimeno",
+				"artistLink": "https://aidenjimeno.carrd.co/"
+			},
+			{
+				"name": "Judgement",
+				"imgLink": "/Homestuck Tarot/19 - Judgement.jpeg",
+				"artist": "Marta Lazpita",
+				"artistLink": "https://www.instagram.com/lazpita_studio/"
+			},
+			{
+				"name": "The World",
+				"imgLink": "/Homestuck Tarot/20 - The World.jpeg",
+				"artist": "Maren N.",
+				"artistLink": "https://twitter.com/rennerei"		
+			},
+			{
+				"name": "Two of Cups",
+				"imgLink": "/Homestuck Tarot/21 - Two of Cups.jpeg",
+				"artist": "Jeannette Arroyo",
+				"artistLink": "https://jeannettearroyo.tumblr.com/"
+			},
+			{
+				"name": "Three of Cups",
+				"imgLink": "/Homestuck Tarot/22 - Three of Cups.jpeg",
+				"artist": "Emlan",
+				"artistLink":"https://www.deviantart.com/emlan"
+			},
+			{
+				"name": "Four of Cups",
+				"imgLink": "/Homestuck Tarot/23 - Four of Cups.jpeg",
+				"artist": "Emily Hu",
+				"artistLink": "https://twitter.com/emilyyyhu"
+			},
+			{
+				"name": "Five of Cups",
+				"imgLink": "/Homestuck Tarot/24 - Five of Cups.jpeg",
+				"artist": "J.R. Doyle",
+				"artistLink": "https://twitter.com/theyoungdoyler"
+			},
+			{
+				"name": "Six of Cups",
+				"imgLink": "/Homestuck Tarot/25 - Six of Cups.jpeg",
+				"artist": "Kat",
+				"artistLink": "https://twitter.com/sovarin"
+			},
+			{
+				"name": "Seven of Cups",
+				"imgLink": "/Homestuck Tarot/26 - Seven of Cups.jpeg",
+				"artist": "Brigitte Woltjen",
+				"artistLink": "http://www.bwoltjen.com/"		
+			},
+			{
+				"name": "Eight of Cups",
+				"imgLink": "/Homestuck Tarot/27 - Eight of Cups.jpeg",
+				"artist": "Shelby Cragg",
+				"artistLink": "https://shelbycragg.squarespace.com/"
+			},
+			{
+				"name": "Nine of Cups",
+				"imgLink": "/Homestuck Tarot/28 - Nine of Cups.jpeg",
+				"artist": "Jonathan Reyes",
+				"artistLink": "https://web.archive.org/web/20120118041735/http://cosmicautogenesis.tumblr.com/"
+			},
+			{
+				"name": "Ten of Cups",
+				"imgLink": "/Homestuck Tarot/29 - Ten of Cups.jpeg",
+				"artist": "Kris Muprhy",
+				"artistLink": "https://twitter.com/kaymurph"
+			},
+			{
+				"name": "Page of Cups",
+				"imgLink": "/Homestuck Tarot/30 - Page of Cups.jpeg",
+				"artist": "Kris Muprhy",
+				"artistLink": "https://twitter.com/kaymurph"
+			},
+			{
+				"name": "Knight of Cups",
+				"imgLink": "/Homestuck Tarot/31 - Knight of Cups.jpeg",
+				"artist": "Mengmeng Liu",
+				"artistLink": "https://twitter.com/adulture"
+			},
+			{
+				"name": "Queen of Cups",
+				"imgLink": "/Homestuck Tarot/32 - Queen of Cups.jpeg",
+				"artist": "Rachel Cohen",
+				"artistLink": "https://www.arlirrc.com/"
+			},
+			{
+				"name": "King of Cups",
+				"imgLink": "/Homestuck Tarot/33 - King of Cups.jpeg",
+				"artist": "Mary McLain",
+				"artistLink": "http://dobiedraws.com/"
+			},
+			{
+				"name": "Ace of Cups",
+				"imgLink": "/Homestuck Tarot/34 - Ace of Cups.jpeg",
+				"artist": "Marta Lazpita",
+				"artistLink": "https://www.instagram.com/lazpita_studio/"
+			},
+			{
+				"name": "Two of Pentacles",
+				"imgLink": "/Homestuck Tarot/35 - Two of Pentacles.jpeg",
+				"artist": "Mengmeng Liu",
+				"artistLink": "https://twitter.com/adulture"
+			},
+			{
+				"name": "Three of Pentacles",
+				"imgLink": "/Homestuck Tarot/36 - Three of Pentacles.jpeg",
+				"artist": "Leslie Hung",
+				"artistLink": "https://twitter.com/lesliehung"
+			},
+			{
+				"name": "Four of Pentacles",
+				"imgLink": "/Homestuck Tarot/37 - Four of Pentacles.jpeg",
+				"artist": "Rudy Mora",
+				"artistLink": "https://twitter.com/rudycomics"
+			},
+			{
+				"name": "Five of Pentacles",
+				"imgLink": "/Homestuck Tarot/38 - Five of Pentacles.jpeg",
+				"artist": "J.N. Wiedel",
+				"artistLink": "https://blog.jnwiedle.com/"
+			},
+			{
+				"name": "Six of Pentacles",
+				"imgLink": "/Homestuck Tarot/39 - Six of Pentacles.jpeg",
+				"artist": "Sintija Ukše",
+				"artistLink": "https://siins.tumblr.com/"
+			},
+			{
+				"name": "Seven of Pentacles",
+				"imgLink": "/Homestuck Tarot/40 - Seven of Pentacles.jpeg",
+				"artist": "Emily Hu",
+				"artistLink": "https://twitter.com/emilyyyhu"
+
+			},
+			{
+				"name": "Eight of Pentacles",
+				"imgLink": "/Homestuck Tarot/41 - Eight of Pentacles.jpeg",	
+				"artist": "Emlan",
+				"artistLink":"https://www.deviantart.com/emlan"
+			},
+			{
+				"name": "Nine of Pentacles",
+				"imgLink": "/Homestuck Tarot/42 - Nine of Pentacles.jpeg",
+				"artist": "Anais Pulejo",
+				"artistLink": "https://web.archive.org/web/20130803200038/http://nutfound.tumblr.com/"
+			},
+			{
+				"name": "Ten of Pentacles",
+				"imgLink": "/Homestuck Tarot/43 - Ten of Pentacles.jpeg",
+				"artist": "Chaz Canterbury",
+				"artistLink": "https://chazzerpan.tumblr.com/"
+			},
+			{
+				"name": "Page of Pentacles",
+				"imgLink": "/Homestuck Tarot/44 - Page of Pentacles.jpeg",
+				"artist": "Beetle Birdley",
+				"artistLink": "https://twitter.com/pinacoladapuppy"
+			},
+			{
+				"name": "Knight of Pentacles",
+				"imgLink": "/Homestuck Tarot/45 - Knight of Pentacles.jpeg",
+				"artist": "Pao",
+				"artistLink": "https://paobangboom.tumblr.com/"
+			},
+			{
+				"name": "Queen of Pentacles",
+				"imgLink": "/Homestuck Tarot/46 - Queen of Pentacles.jpeg",
+				"artist": "Chaz Canterbury",
+				"artistLink": "https://chazzerpan.tumblr.com/"
+			},
+			{
+				"name": "King of Pentacles",
+				"imgLink": "/Homestuck Tarot/47 - King of Pentacles.jpeg",
+				"artist": "Sintija Ukše",
+				"artistLink": "https://siins.tumblr.com/"
+			},
+			{
+				"name": "Ace of Pentacles",
+				"imgLink": "/Homestuck Tarot/48 - Ace of Pentacles.jpeg",
+				"artist": "Leenah",
+				"artistLink": "https://twitter.com/leaphy_"
+			},
+			{
+				"name": "Two of Wands",
+				"imgLink": "/Homestuck Tarot/49 - Two of Wands.jpeg",
+				"artist": "Brigitte Woltjen",
+				"artistLink": "http://www.bwoltjen.com/"
+			},
+			{
+				"name": "Three of Wands",
+				"imgLink": "/Homestuck Tarot/50 - Three of Wands.jpeg",
+				"artist": "J.R. Doyle",
+				"artistLink": "https://twitter.com/theyoungdoyler"
+
+			},
+			{
+				"name": "Four of Wands",
+				"imgLink": "/Homestuck Tarot/51 - Four of Wands.jpeg",
+				"artist": "Anais Pulejo",
+				"artistLink": "https://web.archive.org/web/20130803200038/http://nutfound.tumblr.com/"
+			},
+			{
+				"name": "Five of Wands",
+				"imgLink": "/Homestuck Tarot/52 - Five of Wands.jpeg",
+				"artist": "Pao",
+				"artistLink": "https://paobangboom.tumblr.com/"
+			},
+			{
+				"name": "Six of Wands",
+				"imgLink": "/Homestuck Tarot/53 - Six of Wands.jpeg",
+				"artist": "Lexxy",
+				"artistLink": "https://www.alexandra-douglass.com"
+			}, 
+			{
+				"name": "Seven of Wands",
+				"imgLink": "/Homestuck Tarot/54 - Seven of Wands.jpeg",
+				"artist": "Shelby Cragg",
+				"artistLink": "https://shelbycragg.squarespace.com/"
+			},
+			{
+				"name": "Eight of Wands",
+				"imgLink": "/Homestuck Tarot/55 - Eight of Wands.jpeg",
+				"artist": "Emlan",
+				"artistLink":"https://www.deviantart.com/emlan"
+
+			}, 
+			{
+				"name": "Nine of Wands",
+				"imgLink": "/Homestuck Tarot/56 - Nine of Wands.jpeg",
+				"artist": "Maren N.",
+				"artistLink": "https://twitter.com/rennerei"
+			}, 
+			{
+				"name": "Ten of Wands",
+				"imgLink": "/Homestuck Tarot/57 - Ten of Wands.jpeg",
+				"artist": "J.N. Wiedel",
+				"artistLink": "https://blog.jnwiedle.com/"
+			}, 
+			{
+				"name": "Page of Wands",
+				"imgLink": "/Homestuck Tarot/58 - Page of Wands.jpeg",
+				"artist": "Emily Hu",
+				"artistLink": "https://twitter.com/emilyyyhu"
+			}, 
+			{
+				"name": "Knight of Wands",
+				"imgLink": "/Homestuck Tarot/59 - Knight of Wands.jpeg",
+				"artist": "Rudy Mora",
+				"artistLink": "https://twitter.com/rudycomics"
+
+			},
+			{
+				"name": "Queen of Wands",
+				"imgLink": "/Homestuck Tarot/60 - Queen of Wands.jpeg",
+				"artist": "Zilon",
+				"artistLink": "https://notzilon.tumblr.com/"
+			}, 
+			{
+				"name": "King of Wands",
+				"imgLink": "/Homestuck Tarot/61 - King of Wands.jpeg",
+				"artist": "Esfi Morales",
+				"artistLink": "https://esfimorales.art/"
+			},
+			{
+				"name": "Ace of Wands",
+				"imgLink": "/Homestuck Tarot/62 - Ace of Wands.jpeg",
+				"artist": "Zilon",
+				"artistLink": "https://notzilon.tumblr.com/"
+			},
+			{
+				"name": "Two of Swords",
+				"imgLink": "/Homestuck Tarot/63 - Two of Swords.jpeg",
+				"artist": "Wachtel",
+				"artistLink": "https://www.tumblr.com/wachtelspinat"
+			},
+			{
+				"name": "Three of Swords", 
+				"imgLink": "/Homestuck Tarot/64 - Three of Swords.jpeg",
+				"artist": "Mari Arakaki",
+				"artistLink": "https://twitter.com/kakimari"
+			},
+			{
+				"name": "Four of Swords",
+				"imgLink": "/Homestuck Tarot/65 - Four of Swords.jpeg",
+				"artist": "Blue",
+				"artistLink": "https://hoursago.tumblr.com/"
+			},
+			{
+				"name": "Five of Swords",
+				"imgLink": "/Homestuck Tarot/66 - Five of Swords.jpeg",
+				"artist": "Shad Andrews",
+				"artistLink":"https://www.shad-andrews.com/"
+			},
+			{
+				"name": "Six of Swords",
+				"imgLink": "/Homestuck Tarot/67 - Six of Swords.jpeg",
+				"artist": "Myra",
+				"artistLink": "https://web.archive.org/web/20200510203515/https://treeleafclover.tumblr.com/"
+			},
+			{
+				"name": "Seven of Swords",
+				"imgLink": "/Homestuck Tarot/68 - Seven of Swords.jpeg",
+				"artist": "Wachtel",
+				"artistLink": "https://www.tumblr.com/wachtelspinat"
+			},
+			{
+				"name": "Eight of Swords",
+				"imgLink": "/Homestuck Tarot/69 - Eight of Swords.jpeg",
+				"artist": "Kris Muprhy",
+				"artistLink": "https://twitter.com/kaymurph"
+			},
+			{
+				"name": "Nine of Swords",
+				"imgLink": "/Homestuck Tarot/70 - Nine of Swords.jpeg",
+				"artist": "Sintija Ukše",
+				"artistLink": "https://siins.tumblr.com/"
+			},
+			{
+				"name": "Ten of Swords",
+				"imgLink": "/Homestuck Tarot/71 - Ten of Swords.jpeg",
+				"artist": "Anais Pulejo",
+				"artistLink": "https://web.archive.org/web/20130803200038/http://nutfound.tumblr.com/"
+			},
+			{
+				"name": "Page of Swords", 
+				"imgLink": "/Homestuck Tarot/72- Page of Swords.jpeg",
+				"artist": "Jonathan Reyes",
+				"artistLink": "https://web.archive.org/web/20120118041735/http://cosmicautogenesis.tumblr.com/"
+			},
+			{
+				"name": "Knight of Swords",
+				"imgLink": "/Homestuck Tarot/73 - Knight of Swords.jpeg",
+				"artist": "Róan",
+				"artistLink": "https://wodnesse.tumblr.com/"
+			},
+			{
+				"name": "Queen of Swords",
+				"imgLink": "/Homestuck Tarot/74 - Queen of Swords.jpeg",
+				"artist": "Tracy Liang",
+				"artistLink": "https://tsliang.weebly.com/"
+			},
+			{
+				"name": "King of Swords",
+				"imgLink": "/Homestuck Tarot/75 - King of Swords.jpeg",
+				"artist": "Esfi Morales",
+				"artistLink": "https://esfimorales.art/"
+			},
+			{
+				"name": "Ace of Swords",
+				"imgLink": "/Homestuck Tarot/76 - Ace of Swords.jpeg",
+				"artist": "Andrew Hussie",
+				"artistLink": "https://www.homestuck.com"
+			},
+			{
+				"name": "Card Back",
+				"imgLink": "/Homestuck Tarot/Card Back.jpeg",
+				"artist": "Zilon",
+				"artistLink": "https://notzilon.tumblr.com"
+			}
+
+		],
+		"genus": "toys", 
+		"species": "cards", 
+		"anthology": true,
+		"hires": true
+	},
+	
+	{
+		"name": "Pre-Scratch Venture",
+		"artist": "Gina Chacon",
+		"artistLink": "https://twitter.com/SaiyaGina",
+		"imgLink": ["Pre-Scratch Venture - Gina Chacon.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "Post-Scratch Hazard",
+		"artist": "Gina Chacon",
+		"artistLink": "https://twitter.com/SaiyaGina",
+		"imgLink": ["Post-Scratch Hazard - Gina Chacon.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "2014 Homestuck Calendar",
+		"artist": "Anthology",
+		"imgLink": ["/Calendars/2014/Cover - Gina Chacon.jpg"],
+		"anthPage": [
+			{
+				"name": "Cover",
+				"imgLink": "/Calendars/2014/Cover 2 - Gina Chacon.jpg",
+				"artist": "Gina Chacon",
+				"artistLink": "https://twitter.com/SaiyaGina"
+
+			},
+				{
+				"name": "January",
+				"imgLink": "/Calendars/2014/January - Lina.jpg",
+				"artist": "Leenah",
+				"artistLink": "https://twitter.com/leaphy_"
+			},
+			{
+				"name": "February",
+				"imgLink": "/Calendars/2014/February - Tyson Hesse.jpg",
+				"artist": "Tyson Hesse",
+				"artistLink":"https://twitter.com/tyson_hesse"
+			},
+			{
+				"name": "March",
+				"imgLink": "/Calendars/2014/March - laura frick.jpg",
+				"artist": "Laura Frick",
+				"artistLink": "https://www.tumblr.com/melongifts"
+			},
+			{
+				"name": "April",
+				"imgLink": "/Calendars/2014/April - CartoonFuntime.png",
+				"artist": "Geneva Hodgson",
+				"artistLink": "https://twitter.com/cartoonfuntime"
+			},
+			{
+				"name": "May",
+				"imgLink": "/Calendars/2014/May - kurooequinox.jpeg",
+				"artist": "Kurooequinox",
+				"artistLink": "https://kurooequinox.tumblr.com/"
+			},
+			{
+				"name": "June",
+				"imgLink": "/Calendars/2014/June - Ashwara.jpg",
+				"artist": "William Gibbons",
+				"artistLink": "https://ashwara.tumblr.com/"
+			},
+			{
+				"name": "July",
+				"imgLink": "/Calendars/2014/July - JohnnyWander.jpeg",
+				"artist": "Yuko Ota",
+				"artistLink":"https://johnnywander.com/"
+			},
+			{
+				"name": "August",
+				"imgLink":"/Calendars/2014/August - Banditry.jpeg",
+				"artist": "Val Kung",
+				"artistLink": "https://valkung.tumblr.com/"
+			},
+			{
+				"name": "September",
+				"imgLink":"/Calendars/2014/September - Greliz.png",
+				"artist": "Johnathan Griffiths",
+				"artistLink": "https://greliz.tumblr.com/"
+			},
+			{
+				"name": "October",
+				"imgLink":"/Calendars/2014/October - Saffronscarf.png",
+				"artist":"SaffronScarf",
+				"artistLink":"https://saffronscarf.tumblr.com/"
+			},
+			{
+				"name": "November",
+				"imgLink": "/Calendars/2014/November - JN Weidel.png",
+				"artist": "J.N. Wiedel",
+				"artistLink": "https://blog.jnwiedle.com/"
+			},
+			{
+				"name": "December",
+				"imgLink": "/Calendars/2014/December - KCGreen.jpg",
+				"artist": "KC Green",
+				"artistLink":"https://twitter.com/kcgreenn"
+			},
+			{
+				"name": "Back Cover",
+				"imgLink": "/Calendars/2014/Cover - Gina Chacon.jpg",
+				"artist": "Gina Chacon",
+				"artistLink": "https://twitter.com/SaiyaGina"
+			}
+		],
+		"genus": "parchment",
+		"species": "calendar",
+		"anthology": true,
+		"complete": true,
+		"hires": false
+	},
+	{
+		"name": "Final Battle",
+		"artist": "Zack Morrison",
+		"artistLink": "http://www.paranatural.net/",
+		"imgLink": ["final battle - Zack Morrison.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "God Tier Pre-Scratch Trolls",
+		"artist": "Xamag",
+		"artistLink": "https://twitter.com/xamag_draws",
+		"imgLink": ["Dancestors - Xamag.png"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "AND TO ALL A GOOG NIGT",
+		"artist": "KC Green",
+		"artistLink":"https://twitter.com/kcgreenn",
+		"imgLink": ["/Calendars/2014/December - KCGreen.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Carapacian Cookout",
+		"artist": "Matt Cummings",
+		"artistLink": "https://eiffel.art/",
+		"imgLink": ["Carapacian Cookout - Matt Cummings.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "The Birth Of Lil Sebastian",
+		"artist": "Rennie Kingsley",
+		"artistLink": "http://www.renniekingsley.com/",
+		"imgLink": ["The Birth Of Lil Sebastian - Rendigo.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "This Pumpkin",
+		"artist": "Rennie Kingsley",
+		"artistLink": "http://www.renniekingsley.com/",
+		"imgLink": ["This Pumpkin - Rendigo.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Megacon 2014",
+		"artist": "J.N. Wiedel",
+		"artistLink": "https://blog.jnwiedle.com/",
+		"imgLink": ["Megacon-shirt.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Available at the WhatPumpkin booth at MegaCon 2014."
+	},
+	{
+		"name": "Emerald City Comic Con 2014",
+		"artist": "Shelby Cragg",
+		"artistLink": "https://shelbycragg.squarespace.com/",
+		"imgLink": ["eccc-tee-sm-01.jpg", "convention tees 2-04.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Available at the WhatPumpkin booth at Emerald City Comic Con 2014."
+
+	},
+	{
+		"name": "Wondercon 2014",
+		"artist": "Tauhid Bondia",
+		"artistLink": "https://www.instagram.com/crabgrasscomic/",
+		"imgLink": ["wondercon-2014.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Available at the WhatPumpkin booth at Wondercon 2014."
+
+	},
+	{
+		"name": "Salt Lake City Comic Con 2014", 
+		"artist": "Fray",
+		"artistLink": "https://www.tumblr.com/fray",
+		"imgLink": ["SLCC-shirt-01.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Available at the WhatPumpkin booth at Salt Lake City Comic Con 2014."
+	},
+
+	{
+		"name": "C2E2 2014", 
+		"artist": "Fray",
+		"artistLink": "https://www.tumblr.com/fray",
+		"imgLink": ["c2e2-shirt-01.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Available at the WhatPumpkin booth at C2E2 2014."
+	},
+	{
+		"name": "Calgary Expo 2014", 
+		"artist": "KC Green",
+		"artistLink":"https://twitter.com/kcgreenn",
+		"imgLink": ["calgary-shirt-01.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true,
+		"info": "Available at the WhatPumpkin booth at Calgary Expo 2014."
 	},
 	{
 		"name": "The Beta Kids",
@@ -954,6 +1952,315 @@
 		"info": "Honorable mention in the 2014 WeLoveFine Homemstuck Design Contest."
 	},
 	{
+		"name": "Supercon 2014",
+		"artist": "J.N. Wiedel",
+		"artistLink": "https://blog.jnwiedle.com/",
+		"imgLink": ["supercon-tee-sm.jpg", "convention tees 3.jpg" ],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Available at the WhatPumpkin booth at Supercon 2014."
+	},
+	{
+		"name": "LEX TALIONIS",
+		"artist": "Mementomoryo",
+		"artistLink": "https://twitter.com/CCronshaw",
+		"imgLink": ["Lex Talionis - Memento Moryo.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "COR SCORPII",
+		"artist": "Mementomoryo",
+		"artistLink": "https://twitter.com/CCronshaw",
+		"imgLink": ["Cor Scorpii - MementoMoryo.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "FAUCIBUS LEONIS",
+		"artist": "Mementomoryo",
+		"artistLink": "https://twitter.com/CCronshaw",
+		"imgLink": ["Facibus Leonis - MementoMoryo.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "DURA MATER",
+		"artist": "Mementomoryo",
+		"artistLink": "https://twitter.com/CCronshaw",
+		"imgLink": ["Dura Mater - MementoMoryo.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Dave Evolved",
+		"artist": "Bidelle Ward",
+		"artistLink": "https://andarixblog.wordpress.com/",
+		"imgLink": ["dave evolved - bidelle ward.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": true
+	},
+	{
+		"name": "Ancestors Circle",
+		"artist": "Allison Shabet",
+		"artistLink": "https://deadwinter.cc/",
+		"imgLink": ["Ancestor circle - Allison Shabbat.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "Behind the Curtain",
+		"artist": "Shelby Cragg",
+		"artistLink": "https://shelbycragg.squarespace.com/",
+		"imgLink": ["Behind the Curtain - Shelby.jpeg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "Ladies of Homestuck",
+		"artist": "Shelby Cragg",
+		"artistLink": "https://shelbycragg.squarespace.com/",
+		"imgLink": ["Lovely Ladies - Shelby.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "SOROR MEA",
+		"artist": "Mementomoryo",
+		"artistLink": "https://twitter.com/CCronshaw",
+		"imgLink": ["Soror Mea - memento.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "DE PROFUNDIS AD ASTRA",
+		"artist": "Mementomoryo",
+		"artistLink": "https://twitter.com/CCronshaw",
+		"imgLink": ["De Profundis - MemenotMoryo.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "LUX INTIMA",
+		"artist": "Mementomoryo",
+		"artistLink": "https://twitter.com/CCronshaw",
+		"imgLink": ["Lux Intima - Memento Moryo.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+	{
+		"name": "IN VACUO",
+		"artist": "Mementomoryo",
+		"artistLink": "https://twitter.com/CCronshaw",
+		"imgLink": ["In Vacuo - Memento Moryo.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true
+	},
+
+	{
+		"name": "NYCC 2014",
+		"artist": "KC Green",
+		"artistLink":"https://twitter.com/kcgreenn",
+		"imgLink": ["glomped1.jpg", "glomped2.jpg", "convention tees 3.jpg" ],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Available at the WhatPumpkin booth at New York City Comic Con 2014."
+	},
+	{
+		"name": "Animate! Miami 2014",
+		"artist": "Amber Garrick",
+		"artistLink": "https://breadwitch.tumblr.com/",
+		"imgLink": ["Animate Miami - Breadwitch.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Available at the WhatPumpkin booth at Animate! Miami 2014."
+
+	},
+	{
+		"name": "2015 Homestuck Calendar",
+		"artist": "Anthology",
+		"imgLink": ["/Calendars/2015/Cover - Mallory Dyer.jpg"],
+		"anthPage": [
+			{
+				"name": "Cover",
+				"imgLink": "/Calendars/2015/Cover - Mallory Dyer.jpg",
+				"artist": "Mallory Dyer",
+				"artistLink": "https://bleaksqueak.tumblr.com/"
+
+			},
+			{
+				"name": "Credits",
+				"imgLink": "/Calendars/2015/Credits - KC Green.jpg",
+				"artist": "KC Green",
+				"artistLink":"https://twitter.com/kcgreenn"
+
+			},
+			{
+				"name": "January",
+				"imgLink": "/Calendars/2015/January - Arbullock.jpg",
+				"artist": "Abigail Bullock",
+				"artistLink": "https://www.tumblr.com/toastyglow"
+			},
+			{
+				"name": "February",
+				"imgLink": "/Calendars/2015/February - Kirstin Kemper.jpg",
+				"artist": "Kristin Kemper",
+				"artistLink": "https://twitter.com/kecky415"
+			},
+			{
+				"name": "March",
+				"imgLink": "/Calendars/2015/March Evan Dahm.jpg",
+				"artist": "Evan Dahm",
+				"artistLink": "https://twitter.com/evandahm"
+			},
+			{
+				"name": "April",
+				"imgLink": "/Calendars/2015/April - Theifofstarz.jpg",
+				"artist": "Jacqi",
+				"artistLink": "https://thiefofstars.tumblr.com/"
+			},
+			{
+				"name": "May",
+				"imgLink": "/Calendars/2015/May - Shelby Cragg.jpg",
+				"artist": "Shelby Cragg",
+				"artistLink": "https://shelbycragg.squarespace.com/"
+			},
+			{
+				"name": "June",
+				"imgLink": "/Calendars/2015/June - Aiyette Dizon.jpg",
+				"artist": "Mari",
+				"artistLink": "https://www.instagram.com/myetie/"
+			},
+			{
+				"name": "July",
+				"imgLink": "/Calendars/2015/July Hazya.jpg",
+				"artist": "Caitlyn Humphreys",
+				"artistLink": "https://hazya.tumblr.com/"
+			},
+			{
+				"name": "August",
+				"imgLink":"/Calendars/2015/August - Ikimaru.jpg",
+				"artist": "Sunny Evans",
+				"artistLink": "https://ikimaru.tumblr.com/"
+			},
+			{
+				"name": "September",
+				"imgLink":"/Calendars/2015/September - paperseverywhere.jpg",
+				"artist": "Adrienne Garcia",
+				"artistLink": "https://paperseverywhere.tumblr.com/"
+			},
+			{
+				"name": "October",
+				"imgLink":"/Calendars/2015/October - Korybing.jpg",
+				"artist":"Kory Bing",
+				"artistLink":"https://korybing.com/"
+			},
+			{
+				"name": "November",
+				"imgLink": "/Calendars/2015/November - Xamag.png",
+				"artist": "Xamag",
+				"artistLink": "https://twitter.com/xamag_draws"
+			},
+			{
+				"name": "December",
+				"imgLink": "/Calendars/2015/December - Jonathan Griffith.jpg",
+				"artist": "Jonathan Griffiths",
+				"artistLink": "https://greliz.tumblr.com/"
+			},
+			{
+				"name": "Back Cover",
+				"imgLink": "/Calendars/2015/Back Cover - Mallory Dyer.jpg",
+				"artist": "Mallory Dyer",
+				"artistLink": "https://bleaksqueak.tumblr.com/"
+			}
+		],
+		"genus": "parchment",
+		"species": "calendar",
+		"anthology": true,
+		"complete": true,
+		"hires": false
+	},
+	{
+		"name": "Alchemize!",
+		"artist": "Zack Morrison",
+		"artistLink": "http://www.paranatural.net/",
+		"imgLink": ["Alchemize - Zack Morrison.png"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "Mayor of Can Town",
+		"artist": "Brian Reedy",
+		"artistLink": "https://brianreedy.bigcartel.com/",
+		"imgLink": ["Mayor.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": false
+	},
+	{
+		"name": "Alpha and Beta Kids Sticker Sheet Set",
+		"artist": "Geneva Hodgson",
+		"artistLink": "https://twitter.com/cartoonfuntime",
+		"imgLink": ["kids-stickers-0.jpg", "kids-stickers-1.jpg", "kids-stickers-2.jpg", "kids-stickers-3.jpg", "kids-stickers-4.jpg", "kids-stickers-5.jpg", "kids-stickers-6.jpg", "kids-stickers-7.jpg", "kids-stickers-8.jpg"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": false
+	},
+	{
+		"name": "The Midnight Crew and the Felt Sticker Sheet Set",
+		"artist": "Tracy Liang",
+		"artistLink": "https://tsliang.weebly.com/",
+		"imgLink": ["The-Felt-Stickers-0-01.jpg", "The-Felt-Stickers-1.jpg", "The-Felt-Stickers-2.jpg", "The-Felt-Stickers-3.jpg", "The-Felt-Stickers-4.jpg", "The-Felt-Stickers-5.jpg", "The-Felt-Stickers-6-01.jpg", "The-Felt-Stickers-7-01.jpg", "The-Felt-Stickers-8-01.jpg", "The-Felt-Stickers-9-01.jpg"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": false
+	},
+	{
+		"name": "John Evolved",
+		"artist": "Bidelle Ward",
+		"artistLink": "https://andarixblog.wordpress.com/",
+		"imgLink": ["john evolved - bidelle ward.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false
+	},
+	{
+		"name": "Jade Evolved",
+		"artist": "Bidelle Ward",
+		"artistLink": "https://andarixblog.wordpress.com/",
+		"imgLink": ["jade evolved - bidelle ward.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false
+	},
+	{
+		"name": "Emerald City Comic Con 2015",
+		"artist": "Jonathan Griffiths",
+		"artistLink": "https://greliz.tumblr.com/",
+		"imgLink": ["ecc2015 - greliz.png"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Available at the WhatPumpkin booth at Emerald City Comic Con 2015."
+
+	},
+	{
 		"name": "The Seer Is In",
 		"artist": "Elanor Pam",
 		"artistLink": "https://gnatsattack.tumblr.com/",
@@ -1054,6 +2361,57 @@
 		"info": "Honorable Mention in the 2015 WeLoveFine Homestuck Design Contest."
 	},
 	{
+		"name": "New Canvas",
+		"artist": "Sam Bragg",
+		"artistLink": "https://www.sambragg.art/",
+		"imgLink": ["New Canvas - Samantha.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable Mention in the 2015 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Mutie Cutie",
+		"artist": "Sam Bragg",
+		"artistLink": "https://www.sambragg.art/",
+		"imgLink": ["mutie cutie - samantha.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable Mention in the 2015 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "Apple Juice",
+		"artist": "PsychoHog",
+		"artistLink": "https://xpsychohogx.tumblr.com/",
+		"imgLink": ["applejuice psychoghog.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable Mention in the 2015 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "A Day At The Desert",
+		"artist": "Drew Borja",
+		"artistLink": "https://drewborja.wixsite.com/drewborja",
+		"imgLink": ["A day at the desert - Drew Borja.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable Mention in the 2015 WeLoveFine Homestuck Design Contest."
+	},
+	{
+		"name": "4C3 D3T3CT1V3",
+		"artist": "Drew Borja",
+		"artistLink": "https://drewborja.wixsite.com/drewborja",
+		"imgLink": ["4c3 d3t3ct1v3 - drew borja.jpg"],
+		"genus": "finery",
+		"species": "shirt",
+		"hires": false,
+		"info": "Honorable Mention in the 2015 WeLoveFine Homestuck Design Contest."
+	},
+
+	{
 		"name": "you can see me right",
 		"artist": "Meruz",
 		"artistLink": "https://meruz.tumblr.com/",
@@ -1078,7 +2436,7 @@
 		"artist": "Zoe Jay",
 		"artistLink": "https://ot3.tumblr.com/",
 		"imgLink": ["s'mousepad ot3.jpg"],
-		"genus": "trinket",
+		"genus": "finery",
 		"species": "mousepad",
 		"hires": true,
 		"info": "Mousepad Winner in the 2016 WeLoveFine Homestuck Design Contest."
@@ -1088,7 +2446,7 @@
 		"artist": "Amanda Bell",
 		"artistLink": "https://www.amandabell.net/",
 		"imgLink": ["do the windy thing - astropunch.jpg"],
-		"genus": "trinket",
+		"genus": "finery",
 		"species": "mousepad",
 		"hires": true,
 		"info": "Mousepad Winner in the 2016 WeLoveFine Homestuck Design Contest."
@@ -1098,7 +2456,7 @@
 		"artist": "Purple",
 		"artistLink": "https://dopingues.tumblr.com/",
 		"imgLink": ["apex knight - purple.png"],
-		"genus": "trinket",
+		"genus": "finery",
 		"species": "mousepad",
 		"hires": false,
 		"info": "Mousepad Winner in the 2016 WeLoveFine Homestuck Design Contest."
@@ -1168,9 +2526,840 @@
 		"artist": "Sgt-Spank",
 		"artistLink": "https://sgt-spank.tumblr.com/",
 		"imgLink": ["Bro Strider Body Pillow -SgtSpank.jpg"],
-		"genus": "trinket",
+		"genus": "finery",
 		"species": "pillow",
 		"hires": true,
 		"info": "Collectible Prize Winner in the 2016 WeLoveFine Homestuck Design Contest."
-	}
+	},
+	{
+		"name": "Sopor Pie",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/Sopor Pie - Requiem.jpg"],
+		"genus": "misc",
+		"species": "food",
+		"hires": true,
+		"info": "Key Lime Pie. Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},
+	{
+		"name": "Pumpkin Rodeo",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/DirkJake Waffles - Requiem.jpg"],
+		"genus": "misc",
+		"species": "food",
+		"hires": true,
+		"info": "Pumpkin Ice Cream with a hint of Orange with two Heart Waffles. Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},
+
+	{
+		"name": "Grimsnark Milk Tea",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/Grimsnark Tea.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Rose Milk Tea with a Sweet Matcha Cold Foam. Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},
+
+	{
+		"name": "Dave's Apple Juice",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/Dave's Apple Juice.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Apple Juice topped with Candy Apple Cold Foam. Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},
+
+	{
+		"name": "Sburb Soda Alpha",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/Sburb Soda Alpha.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Dragonfruit Mtn Dew Code Red topped with Gushers. Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},
+
+	{
+		"name": "Sburb Soda Beta",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/Sburb Soda Beta.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Green Apple Mtn Dew topped with Gushers. Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},
+
+	{
+		"name": "High Blood",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/High Blood.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Blackberry Butterfly Team topped with Lavender Lemonade. Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},
+
+	{
+		"name": "Strawberry Lalonde",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/Strawberry Lalonde.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Strawberry and Rose Lemonade topped with Sprite. Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},
+
+	{
+		"name": "Batterwitch Latte",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/Batterwitch Latte.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Cake flavored Latte using actual Betty Crocker ingredients. Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},	
+	{
+		"name": "Beta Kids",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 3.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true,
+		"info": "Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},{
+		"name": "Alpha Kids",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 4.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true,
+		"info": "Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},
+	{
+		"name": "Scourge Sisters",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 2.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true,
+		"info": "Available at the 2023 Homestuck x Requiem Cafe Collaboration."
+	},
+	{
+		"name": "Sharpie Bath Bellini",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/Sharpie Bath Bellini.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Peach Prosecco with a Luster Glitter Stick. Available at the 2024 Homestuck x Requiem Cafe 15 Year Anniversary Celebration."
+	},
+	{
+		"name": "Bucket Shot",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/bucket shot.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Apple schnapps shot with a drop of mystery flavor. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Extra Hour In The Ball Pit",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/extra hour in the pit.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Monster energy cocktail with popping pearls. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "The Felt Grasshopper",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/grasshopper.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "White chocolate with mint creme cocktail. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "The Midnight Crew",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/midnight crew.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Espresso and brandy with dark chocolate. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Wink Wonk Pop Rocks Soda",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/wink wonk.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "An infusion of Raspberry and Watermelon soda with refreshing Sprite and Pop Rocks. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Shucks Buster Mocha",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/shucks buster mocha.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Espresso infused with Dark Chocolate, Vanilla, Cupcake, and Whipped Cream with Blue Sprinkles. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Gadzooks Matcha Milk Tea",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/gadzooks.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Matcha infused with English Toffee and Vanilla. Topped with Pumpkin Spice Cold Foam. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Synchronize Orange Cream Soda",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/synchronize.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Orange Soda topped with creamy Vanilla Cold Foam. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Pisces Dragonfruit Soda",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/dragonfruit.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Dragonfruit flavored soda topped with refreshing Sprite. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Aquarius Violet Soda",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/violet.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Violet flavored soda topped with refreshing Sprite. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Capricorn Grape Soda",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/Capricorn Grape.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Grape flavored soda topped with refreshing Sprite. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Sagitarius Blueberry Soda",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/blueberry.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Grape flavored soda topped with refreshing Sprite. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Scorpio Blue Raspberry Soda",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/blueraspberry.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Blue Raspberry flavored soda topped with refreshing Sprite. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Libra Lime Soda",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/lime.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Lime flavored soda topped with refreshing Sprite. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Virgo Mint Lemonade",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/mint.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Mint flavor infused Lemonade. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Leo Cucumber Lemonade",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/cucumber.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Cucumber flavor infused Lemonade. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Cancer Cherry Lemonade",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/cherry.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Tart Cherry flavor infused Lemonade. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Gemini Passionfruit Lemonade",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/passionfruit.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Passionfruit flavor infused Lemonade. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Taurus Mango Lemonade",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/mango.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Mango flavor infused Lemonade. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Aries Stonefruit Lemonade",
+		"artist": "Requiem Cafe",
+		"artistLink": "https://www.requiemcafe.com/",
+		"imgLink": ["/Food/stone fruit.jpg"],
+		"genus": "misc",
+		"species": "drink",
+		"hires": true,
+		"info": "Stonefruit flavor infused Lemonade. Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Homestuck Oracle Deck",
+		"artist": "HONE",
+		"artistLink": "https://twitter.com/hone_skl",
+		"imgLink": ["/RequiemTarot/Heir of Breath.png", "/RequiemTarot/Seer of Light.png", "/RequiemTarot/Knight of Time.png", "/RequiemTarot/Witch of Space.png", "/RequiemTarot/Maid of Life.png", "/RequiemTarot/Rogue of Void.png", "/RequiemTarot/Prince of Heart.png", "/RequiemTarot/Page of Hope.png",  "/RequiemTarot/Maid of Time.png", "/RequiemTarot/Page of Breath.png", "/RequiemTarot/Mage of Doom.png", "/RequiemTarot/Knight of Blood.png", "/RequiemTarot/Rogue of Heart.png", "/RequiemTarot/Sylph of Space.png", "/RequiemTarot/Seer of Mind.png", "/RequiemTarot/Thief of Light.png", "/RequiemTarot/Heir of Void.png", "/RequiemTarot/Bard of Rage.png", "/RequiemTarot/Prince of Hope.png", "/RequiemTarot/Witch of Life.png"],
+		"genus": "toys",
+		"species": "cards",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."},
+	{
+		"name": "Homestuck 15th Anniversary",
+		"artist": "HONE",
+		"artistLink": "https://twitter.com/hone_skl",
+		"imgLink": ["15th anniversary - Hone.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Homestuck X Requiem Shirt",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["Homestuck X Requiem Shirt.png"],
+		"genus": "finery", 
+		"species": "trinket", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Kids Lanyard",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["2024 kids lanyard - hone.png"],
+		"genus": "trinket", 
+		"species": "lanyard", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Trolls Lanyard",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["2024 trolls lanyard - hone.png"],
+		"genus": "trinket", 
+		"species": "lanyard", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi John Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["john - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Rose Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["rose - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Dave Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["dave - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Jade Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["jade - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Jane Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["jane - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Roxy Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["roxy - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Dirk Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["dirk - hone .png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Jake Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["jake - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Aradia Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["aradia - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Tavros Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["tavros - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Sollux Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["sollux - hone .png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Karkat Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["karkat - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Nepeta Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["nepeta - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Kanaya Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["kanaya - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Terezi Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["terezi - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Vriska Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["vriska - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Equius Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["equius - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Gamzee Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["gamzee - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Eridan Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["eridan - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Chibi Feferi Keychain",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["eridan - hone.png"],
+		"genus": "trinket", 
+		"species": "keychain", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+
+	},
+	{
+		"name": "Sober Gamzee Sticker",
+		"artist": "HONE",
+		"artistLink":"https://twitter.com/hone_skl",
+	       	"imgLink": ["gamzeesticker.png"],
+		"genus": "parchment", 
+		"species": "sticker", 
+		"hires": true,	 
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration. Sticker is holographic. Scan donated by <a href=\"https://www.instagram.com/becauseyolo42\">becauseyolo42</a>"
+
+	},
+	{
+		"name": "Beta Kids",
+		"artist": "Indigonite",
+		"artistLink": "https://www.tumblr.com/indigonite",
+		"imgLink": ["Betas - Indigonite.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "DirkJake Cafe",
+		"artist": "Sunny Evans",
+		"artistLink": "https://ikimaru.tumblr.com/",
+		"imgLink": ["DirkJake Cafe - Ikimaru.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Thanks for Playing",
+		"artist": "Strovi",
+		"artistLink": "https://www.tumblr.com/strovii",
+		"imgLink": ["Thanks for Playing - Strovi.png"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration. Scan donated by <a href=\"https://twitter.com/VoFTDubs\">Melanie Archer</a>."
+	},
+	{
+		"name": "Hiveswap Sticker Pack",
+		"artist": "Xagave",
+		"artistLink": "https://www.tumblr.com/xagave",
+		"imgLink": ["Hiveswap - Xagave 1.jpg", "Hiveswap - Xagave 2.jpg", "Hiveswap - Xagave 3.jpg", "Hiveswap - Xagave 4.jpg", "Hiveswap - Xagave 5.jpg", "Hiveswap - Xagave 6.jpg"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Sollux Meme Pack",
+		"artist": "Xagave",
+		"artistLink": "https://www.tumblr.com/xagave",
+		"imgLink": ["Meme Pack 1.jpg", "Meme Pack 2.jpg", "Meme Pack 3.jpg", "Meme Pack 4.jpg", "Meme Pack 5.jpg", "Meme Pack 6.jpg","Meme Pack 7.jpg", "Sollux Meme 1 - Xagave.jpg", "Sollux Meme 2 - Xagave.jpg", "Sollux Meme 3 - Xagave.jpg", "Sollux Meme 4 - Xagave.jpg", "Sollux Meme 5 - Xagave.jpg", "Sollux Meme 6 - Xagave.jpg", "Sollux Meme 7 - Xagave.jpg", "Sollux Meme 8 - Xagave.jpg", "Sollux Meme 9 - Xagave.jpg", "Sollux Meme 11 - Xagave.jpg", "Sollux Meme 12 - Xagave.jpg", "Sollux Meme 13 - Xagave.jpg", "Sollux Meme 14 - Xagave.jpg", "Sollux Meme 10 - Xagave.png"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Skaia Sticker",
+		"artist": "Xagave",
+		"artistLink": "https://www.tumblr.com/xagave",
+		"imgLink": ["Skaia - Xagave.png"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	},
+	{
+		"name": "Beat Mesa Sticker",
+		"artist": "Xagave",
+		"artistLink": "https://www.tumblr.com/xagave",
+		"imgLink": ["Beat Mesa- Xagave.png"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebration."
+	}, 
+	{
+		"name": "Aradia and Sollux",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 1.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	},
+	{
+		"name": "Red Team",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["redteam.png"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation. Scan donated by <a href=\"https://www.instagram.com/becauseyolo42\">becauseyolo42</a> "
+	},	
+	{
+		"name": "Blue Team",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["blueteam.jpg"],
+		"genus": "parchment",
+		"species": "print",
+		"hires": false,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	},	
+	{
+		"name": "Grub Ouroborus",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 5.jpg"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	},
+	{
+		"name": "Bojack Dirk Sticker",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bojackdirk.png"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	},
+	{
+		"name": "Mr. Peanutbutter Jake Sticker",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bojackjake.png"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	},
+	{
+		"name": "Beta Kids Stickers",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 6.jpg"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	},
+	{
+		"name": "Alpha Kids Stickers",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 7.jpg"],
+		"genus": "parchment",
+		"species": "sticker",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	},
+	{
+		"name": "HS Kids Tape",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 12.jpg"],
+		"genus": "parchment",
+		"species": "washi",
+		"hires": false,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	},
+	{
+		"name": "Trolls Tape",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 13.jpg"],
+		"genus": "parchment",
+		"species": "washi",
+		"hires": false,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	},
+
+	{
+		"name": "Beta Kids Keychains",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 11.jpg"],
+		"genus": "trinket",
+		"species": "keychain",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation. Sold individually."
+	},
+	{
+		"name": "Alpha Kids Keychains",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 10.jpg"],
+		"genus": "trinket",
+		"species": "keychain",
+		"hires": true,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation. Sold individually."
+	},
+	{
+		"name": "Aradia Soft Enamel Pin",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 8.jpg", "bunnyknickers - 9.jpg"],
+		"genus": "trinket",
+		"species": "pin",
+		"hires": false,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	},	
+	{
+		"name": "Crabwatch Standee",
+		"artist": "Bunnyknickers",
+		"artistLink": "https://linktr.ee/bunnyknickers",
+		"imgLink": ["bunnyknickers - 14.jpg"],
+		"genus": "trinket",
+		"species": "pin",
+		"hires": false,
+		"info": "Available at the 2024 Homestuck x Requiem Cafe 15 year Anniversary Celebatation."
+	}			
+		
 ]
