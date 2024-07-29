@@ -1,0 +1,64 @@
+body {
+	font: 11px arial,helvetica,sans-serif;
+	background: #dcdcdc;
+	color: #333;
+	margin: 0;
+}
+#content {
+	background: #fff;
+	margin: 0 auto;
+	width: 760px;
+}
+#networks {
+background:url(ge_bar_light_bg.gif) repeat-x bottom center;
+color:#ccc;
+font:10px/14px tahoma,arial,geneva,sans-serif;
+margin:0 auto;
+padding:1px 0 0 8px;
+overflow:hidden;
+height:19px;
+}
+
+#networks p {
+color:#eee;
+display:block; 
+float:left; 
+font:10px/14px tahoma,arial,geneva,sans-serif;
+padding:0 4px;
+margin: 0px;
+}
+#networks p.category{
+color:#d7d7d7; 
+font-weight:bold;
+padding:0 0 0 2px;
+}
+#header {
+	background: #6564ff;
+	border-bottom: 2px solid #fff;
+	height: 77px;
+	padding: 0 5px 0 10px;
+}
+#logo {
+	float: left;
+}
+#loginbox {
+	background-color: #4140db;
+	border: 0px;
+	border-radius: 5px;
+	float: right;
+	height: 60px;
+	margin-top: 8px;
+	width: 310px;
+ 
+}
+#searchbox {
+	background: url(search_bg.gif) repeat-x 0px 0px;
+	color: #666;
+	float: left;
+	font-size: 11px;
+	font-weight: bold;
+	height: 34px;
+	line-height: 24px;
+	overflow: hidden;
+	width: 100%;
+}
