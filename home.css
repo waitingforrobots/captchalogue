@@ -345,7 +345,6 @@ footer {
 	display: flex;
 	justify-content: left;
 	align-items: top;
-
 	background: linear-gradient(#ffffff, #dddddb);
 }
 
@@ -376,4 +375,53 @@ footer {
 	height: 20px;
 	width: 20px;
 	float: right;
+}
+.pageText p{
+	margin: 5px;
+}
+.inline {
+	height: 18px;
+	width: 18px;
+}
+
+#carousel {
+	display: flex;
+	flex-direction: row;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 10px;
+	flex-wrap: nowrap;
+	border-color: grey;
+}
+#caroContent .fancybox {
+	display: none;
+}
+.lbArrow {
+	margin: 10px 0 10px;
+	height: 50px;
+	filter: invert(61%) sepia(0%) saturate(1%) hue-rotate(225deg) brightness(94%) contrast(90%);
+}
+.lbArrow:hover {
+	filter: invert(0%);
+}
+#caroButtons {
+	float: right;
+}
+.booklist {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.book {
+	min-height: 200px;
+	width: 150px;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: #d5d5d2;
+	margin: 10px;
+}
+.book img {
+	max-height: 100px;
 }
